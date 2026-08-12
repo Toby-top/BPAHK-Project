@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IDBLOOM Demo</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="page story-panel" id="memo-page" aria-label="IDBLOOM input">
+        <header class="brand">
+          <div class="brand-mark" aria-hidden="true">ID</div>
+          <div>
+            <h1>IDBLOOM</h1>
+            <p>Inner Identity + Demand Delivery</p>
+          </div>
+        </header>
+
+        <figure class="scene">
+          <img
+            src="assets/idbloom-kitchen.png"
+            alt="An organized compact kitchen with storage boxes and breakfast items"
+          />
+          <figcaption>Daily life becomes evidence of expertise.</figcaption>
+        </figure>
+
+        <div class="input-card">
+          <label for="daily-story">Mrs. Chan's daily memo</label>
+          <textarea id="daily-story" rows="9">Daily memo - Mrs. Chan
+- 7:10 AM: Prepared breakfast and packed school snacks for two children.
+- 8:30 AM: Checked the fridge, made a shopping list, and compared prices.
+- 10:15 AM: Bought groceries, storage boxes, and breakfast supplies.
+- 1:00 PM: Reorganized the kitchen into breakfast, baking, and seasoning zones.
+- 4:30 PM: Helped the children find snacks by themselves after school.
+- 8:45 PM: Reviewed tomorrow's meal plan and family schedule.</textarea>
+
+          <div class="actions">
+            <button class="ghost-button" type="button" id="example-button">Use example</button>
+            <button class="primary-button" type="button" id="bloom-button">
+              <span>Bloom My Identity</span>
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <section class="page output-panel" id="identity-page" aria-label="AI Identity Engine" hidden>
+        <div class="output-header">
+          <div>
+            <p class="eyebrow">AI Identity Engine</p>
+            <h2>Daily memo becomes resume-ready identity evidence.</h2>
+          </div>
+          <div class="status-pill" id="status-pill">Ready</div>
+        </div>
+
+        <div class="loading-state" id="loading-state" hidden>
+          <div class="scan-ring" aria-hidden="true"></div>
+          <div>
+            <strong>Turning daily memo into resume bullets...</strong>
+            <p>Detecting timeline evidence, transferable skills, and job-ready language.</p>
+          </div>
+        </div>
+
+        <div class="results-grid identity-grid" id="identity-results" hidden>
+          <article class="result-card inner-identity">
+            <p class="card-label">Resume Summary</p>
+            <h3>Mrs. Chan - Household Operations Specialist</h3>
+            <div class="skill-tags" id="skill-tags"></div>
+            <ul class="resume-list">
+              <li>Managed daily family routines across meals, shopping, storage, childcare, and scheduling.</li>
+              <li>Translated household decisions into practical planning, budgeting, and service coordination skills.</li>
+              <li>Built repeatable systems that helped children complete simple tasks independently.</li>
+            </ul>
+          </article>
+
+          <article class="result-card passport">
+            <p class="card-label">Core Competencies</p>
+            <h3>Transferable Skills</h3>
+            <ul class="resume-list">
+              <li><strong>Meal & routine planning:</strong> Prepared breakfast, snacks, and next-day meal plans.</li>
+              <li><strong>Procurement:</strong> Compared prices, created shopping lists, and purchased household supplies.</li>
+              <li><strong>Space optimization:</strong> Reorganized kitchen zones using storage boxes and clear categories.</li>
+              <li><strong>Child independence training:</strong> Designed systems children could use without adult help.</li>
+            </ul>
+          </article>
+
+          <article class="result-card delivery">
+            <p class="card-label">Experience Evidence</p>
+            <h3>Selected Resume Bullets</h3>
+            <ul class="resume-list">
+              <li>Created a categorized kitchen system that reduced morning confusion and improved family efficiency.</li>
+              <li>Coordinated food inventory, grocery purchasing, storage setup, and daily meal preparation.</li>
+              <li>Improved children's self-service ability by placing breakfast and snack items in accessible zones.</li>
+            </ul>
+          </article>
+        </div>
+
+        <div class="page-actions" id="identity-actions" hidden>
+          <button class="primary-button" type="button" id="demand-button">Demand Delivery</button>
+        </div>
+      </section>
+
+      <section class="page output-panel" id="delivery-page" aria-label="Demand Delivery output" hidden>
+        <div class="output-header">
+          <div>
+            <p class="eyebrow">Demand Delivery</p>
+            <h2>Job application output for visible economic value.</h2>
+          </div>
+          <div class="status-pill">Market Ready</div>
+        </div>
+
+        <div class="results-grid demand-grid" id="delivery-results">
+          <article class="result-card market">
+            <p class="card-label">Job Application Output</p>
+            <h3>Resume-ready Positioning</h3>
+            <div class="content-tabs">
+              <section>
+                <h4>Target Roles</h4>
+                <ul class="resume-list compact">
+                  <li>Family Operations Assistant</li>
+                  <li>Home Organization Consultant</li>
+                  <li>Meal Prep & Household Planning Helper</li>
+                </ul>
+              </section>
+              <section>
+                <h4>Availability & Value</h4>
+                <ul class="resume-list compact">
+                  <li>Available: Saturday 2:00 PM - 5:00 PM</li>
+                  <li>Suggested service: 2-hour Small Kitchen Reset Session</li>
+                  <li>Estimated rate: HKD 350-500 per session</li>
+                </ul>
+              </section>
+            </div>
+          </article>
+
+          <aside class="order-alert" id="order-alert">
+            <span class="alert-dot" aria-hidden="true"></span>
+            <div>
+              <strong>Resume match signal</strong>
+              <p>1 neighbor requested a weekend kitchen reset trial. Suggested resume headline: Household Operations Specialist. Estimated opportunity: HKD 450.</p>
+            </div>
+          </aside>
+        </div>
+
+        <p class="closing-line" id="closing-line">From hidden labor to recognized opportunity.</p>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

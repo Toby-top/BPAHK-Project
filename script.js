@@ -61,6 +61,7 @@ const closingLine = document.querySelector("#closing-line");
 
 let timers = [];
 let currentLang = "en";
+let showingExample = false;
 
 function prepareLanguageSwitching() {
   document.querySelectorAll(".zh").forEach((zhNode) => {
@@ -117,8 +118,6 @@ function showPage(page) {
 }
 
 function bloomIdentity() {
-  if (!storyInput.value.trim()) storyInput.value = examples[currentLang];
-
   resetResults();
   showPage(identityPage);
   bloomButton.disabled = true;
@@ -159,7 +158,7 @@ function showDemandDelivery() {
 }
 
 function setLanguage(lang) {
-  const shouldSwapExample = !storyInput.value.trim() || storyInput.value === examples[currentLang];
+  const shouldSwapExample = showingExample;
   currentLang = lang;
   document.body.dataset.lang = lang;
   document.documentElement.lang = lang === "zh" ? "zh-Hans" : "en";
@@ -187,7 +186,12 @@ function getStatusKey() {
 
 exampleButton.addEventListener("click", () => {
   storyInput.value = examples[currentLang];
+  showingExample = true;
   storyInput.focus();
+});
+
+storyInput.addEventListener("input", () => {
+  showingExample = false;
 });
 
 bloomButton.addEventListener("click", bloomIdentity);

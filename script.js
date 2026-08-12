@@ -20,6 +20,7 @@ const storyInput = document.querySelector("#daily-story");
 const exampleButton = document.querySelector("#example-button");
 const bloomButton = document.querySelector("#bloom-button");
 const demandButton = document.querySelector("#demand-button");
+const homeButton = document.querySelector("#home-button");
 const memoPage = document.querySelector("#memo-page");
 const identityPage = document.querySelector("#identity-page");
 const deliveryPage = document.querySelector("#delivery-page");
@@ -108,3 +109,7 @@ exampleButton.addEventListener("click", () => {
 
 bloomButton.addEventListener("click", bloomIdentity);
 demandButton.addEventListener("click", showDemandDelivery);
+homeButton.addEventListener("click", () => {
+  resetResults();
+  showPage(memoPage);
+});

@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>IDBLOOM Demo</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -13,32 +14,51 @@
           <div class="brand-mark" aria-hidden="true">ID</div>
           <div>
             <h1>IDBLOOM</h1>
-            <p>Inner Identity + Demand Delivery</p>
+            <p>
+              Inner Identity + Demand Delivery
+              <span class="zh" lang="zh-Hans">内在身份 + 需求递送</span>
+            </p>
           </div>
         </header>
 
         <figure class="scene">
           <img
             src="assets/idbloom-kitchen.png"
-            alt="An organized compact kitchen with storage boxes and breakfast items"
+            alt="An organized compact kitchen with storage boxes and breakfast items / 整洁的小厨房，摆放着收纳盒和早餐用品"
           />
-          <figcaption>Daily life becomes evidence of expertise.</figcaption>
+          <figcaption>
+            Daily life becomes evidence of expertise.
+            <span class="zh" lang="zh-Hans">日常生活成为专业能力证据。</span>
+          </figcaption>
         </figure>
 
         <div class="input-card">
-          <label for="daily-story">Mrs. Chan's daily memo</label>
-          <textarea id="daily-story" rows="9">Daily memo - Mrs. Chan
+          <label for="daily-story">
+            Mrs. Chan's daily memo
+            <span class="zh" lang="zh-Hans">陈太太的一日生活记录</span>
+          </label>
+          <textarea id="daily-story" rows="13">Daily memo - Mrs. Chan / 陈太太一日生活记录
 - 7:10 AM: Prepared breakfast and packed school snacks for two children.
+  早上 7:10：准备早餐，并为两个孩子打包上学小食。
 - 8:30 AM: Checked the fridge, made a shopping list, and compared prices.
+  早上 8:30：检查冰箱、列购物清单，并比较价格。
 - 10:15 AM: Bought groceries, storage boxes, and breakfast supplies.
+  上午 10:15：购买食材、收纳盒和早餐用品。
 - 1:00 PM: Reorganized the kitchen into breakfast, baking, and seasoning zones.
+  下午 1:00：把厨房整理成早餐、烘焙和调味分区。
 - 4:30 PM: Helped the children find snacks by themselves after school.
-- 8:45 PM: Reviewed tomorrow's meal plan and family schedule.</textarea>
+  下午 4:30：帮助孩子放学后自行找到小食。
+- 8:45 PM: Reviewed tomorrow's meal plan and family schedule.
+  晚上 8:45：检查明天的餐食计划和家庭日程。</textarea>
 
           <div class="actions">
-            <button class="ghost-button" type="button" id="example-button">Use example</button>
+            <button class="ghost-button" type="button" id="example-button">
+              Use example
+              <span class="zh" lang="zh-Hans">使用示例</span>
+            </button>
             <button class="primary-button" type="button" id="bloom-button">
               <span>Bloom My Identity</span>
+              <span class="zh" lang="zh-Hans">绽放我的身份</span>
             </button>
           </div>
         </div>
@@ -47,87 +67,186 @@
       <section class="page output-panel" id="identity-page" aria-label="AI Identity Engine" hidden>
         <div class="output-header">
           <div>
-            <p class="eyebrow">AI Identity Engine</p>
-            <h2>Daily memo becomes resume-ready identity evidence.</h2>
+            <p class="eyebrow">
+              AI Identity Engine
+              <span class="zh" lang="zh-Hans">AI 身份引擎</span>
+            </p>
+            <h2>
+              Daily memo becomes resume-ready identity evidence.
+              <span class="zh" lang="zh-Hans">一日生活记录，转化为可用于求职的能力证据。</span>
+            </h2>
           </div>
-          <div class="status-pill" id="status-pill">Ready</div>
+          <div class="status-pill" id="status-pill">Ready / 准备就绪</div>
         </div>
 
         <div class="loading-state" id="loading-state" hidden>
           <div class="scan-ring" aria-hidden="true"></div>
           <div>
-            <strong>Turning daily memo into resume bullets...</strong>
-            <p>Detecting timeline evidence, transferable skills, and job-ready language.</p>
+            <strong>
+              Turning daily memo into resume bullets...
+              <span class="zh" lang="zh-Hans">正在把生活记录转化为简历 bullet points...</span>
+            </strong>
+            <p>
+              Detecting timeline evidence, transferable skills, and job-ready language.
+              <span class="zh" lang="zh-Hans">识别时间线证据、可迁移技能和求职表达。</span>
+            </p>
           </div>
         </div>
 
         <div class="results-grid identity-grid" id="identity-results" hidden>
           <article class="result-card inner-identity">
-            <p class="card-label">Resume Summary</p>
-            <h3>Mrs. Chan - Household Operations Specialist</h3>
+            <p class="card-label">
+              Resume Summary
+              <span class="zh" lang="zh-Hans">简历摘要</span>
+            </p>
+            <h3>
+              Mrs. Chan - Household Operations Specialist
+              <span class="zh" lang="zh-Hans">陈太太 - 家庭运营专员</span>
+            </h3>
             <div class="skill-tags" id="skill-tags"></div>
             <ul class="resume-list">
-              <li>Managed daily family routines across meals, shopping, storage, childcare, and scheduling.</li>
-              <li>Translated household decisions into practical planning, budgeting, and service coordination skills.</li>
-              <li>Built repeatable systems that helped children complete simple tasks independently.</li>
+              <li>
+                Managed daily family routines across meals, shopping, storage, childcare, and scheduling.
+                <span class="zh" lang="zh-Hans">管理餐食、采购、收纳、育儿和日程等家庭日常流程。</span>
+              </li>
+              <li>
+                Translated household decisions into practical planning, budgeting, and service coordination skills.
+                <span class="zh" lang="zh-Hans">将家庭决策转化为规划、预算和服务协调能力。</span>
+              </li>
+              <li>
+                Built repeatable systems that helped children complete simple tasks independently.
+                <span class="zh" lang="zh-Hans">建立可重复使用的家庭系统，帮助孩子独立完成简单任务。</span>
+              </li>
             </ul>
           </article>
 
           <article class="result-card passport">
-            <p class="card-label">Core Competencies</p>
-            <h3>Transferable Skills</h3>
+            <p class="card-label">
+              Core Competencies
+              <span class="zh" lang="zh-Hans">核心能力</span>
+            </p>
+            <h3>
+              Transferable Skills
+              <span class="zh" lang="zh-Hans">可迁移技能</span>
+            </h3>
             <ul class="resume-list">
-              <li><strong>Meal & routine planning:</strong> Prepared breakfast, snacks, and next-day meal plans.</li>
-              <li><strong>Procurement:</strong> Compared prices, created shopping lists, and purchased household supplies.</li>
-              <li><strong>Space optimization:</strong> Reorganized kitchen zones using storage boxes and clear categories.</li>
-              <li><strong>Child independence training:</strong> Designed systems children could use without adult help.</li>
+              <li>
+                <strong>Meal & routine planning:</strong> Prepared breakfast, snacks, and next-day meal plans.
+                <span class="zh" lang="zh-Hans"><strong>餐食与日程规划：</strong>准备早餐、小食和次日餐食计划。</span>
+              </li>
+              <li>
+                <strong>Procurement:</strong> Compared prices, created shopping lists, and purchased household supplies.
+                <span class="zh" lang="zh-Hans"><strong>采购管理：</strong>比较价格、制定购物清单并购买家庭用品。</span>
+              </li>
+              <li>
+                <strong>Space optimization:</strong> Reorganized kitchen zones using storage boxes and clear categories.
+                <span class="zh" lang="zh-Hans"><strong>空间优化：</strong>使用收纳盒和清晰分类重整厨房分区。</span>
+              </li>
+              <li>
+                <strong>Child independence training:</strong> Designed systems children could use without adult help.
+                <span class="zh" lang="zh-Hans"><strong>儿童独立训练：</strong>设计孩子无需成人帮助也能使用的系统。</span>
+              </li>
             </ul>
           </article>
 
           <article class="result-card delivery">
-            <p class="card-label">Experience Evidence</p>
-            <h3>Selected Resume Bullets</h3>
+            <p class="card-label">
+              Experience Evidence
+              <span class="zh" lang="zh-Hans">经验证据</span>
+            </p>
+            <h3>
+              Selected Resume Bullets
+              <span class="zh" lang="zh-Hans">精选简历 bullet points</span>
+            </h3>
             <ul class="resume-list">
-              <li>Created a categorized kitchen system that reduced morning confusion and improved family efficiency.</li>
-              <li>Coordinated food inventory, grocery purchasing, storage setup, and daily meal preparation.</li>
-              <li>Improved children's self-service ability by placing breakfast and snack items in accessible zones.</li>
+              <li>
+                Created a categorized kitchen system that reduced morning confusion and improved family efficiency.
+                <span class="zh" lang="zh-Hans">建立分类厨房系统，减少早晨混乱并提升家庭效率。</span>
+              </li>
+              <li>
+                Coordinated food inventory, grocery purchasing, storage setup, and daily meal preparation.
+                <span class="zh" lang="zh-Hans">协调食材库存、采购、收纳设置和每日餐食准备。</span>
+              </li>
+              <li>
+                Improved children's self-service ability by placing breakfast and snack items in accessible zones.
+                <span class="zh" lang="zh-Hans">通过设置易取区域，提升孩子自助取用早餐和小食的能力。</span>
+              </li>
             </ul>
           </article>
         </div>
 
         <div class="page-actions" id="identity-actions" hidden>
-          <button class="primary-button" type="button" id="demand-button">Demand Delivery</button>
+          <button class="primary-button" type="button" id="demand-button">
+            Demand Delivery
+            <span class="zh" lang="zh-Hans">需求递送</span>
+          </button>
         </div>
       </section>
 
       <section class="page output-panel" id="delivery-page" aria-label="Demand Delivery output" hidden>
         <div class="output-header">
           <div>
-            <p class="eyebrow">Demand Delivery</p>
-            <h2>Job application output for visible economic value.</h2>
+            <p class="eyebrow">
+              Demand Delivery
+              <span class="zh" lang="zh-Hans">需求递送</span>
+            </p>
+            <h2>
+              Job application output for visible economic value.
+              <span class="zh" lang="zh-Hans">生成可见经济价值的求职申请输出。</span>
+            </h2>
           </div>
-          <div class="status-pill">Market Ready</div>
+          <div class="status-pill">Market Ready / 市场就绪</div>
         </div>
 
         <div class="results-grid demand-grid" id="delivery-results">
           <article class="result-card market">
-            <p class="card-label">Job Application Output</p>
-            <h3>Resume-ready Positioning</h3>
+            <p class="card-label">
+              Job Application Output
+              <span class="zh" lang="zh-Hans">求职申请输出</span>
+            </p>
+            <h3>
+              Resume-ready Positioning
+              <span class="zh" lang="zh-Hans">可用于简历的职业定位</span>
+            </h3>
             <div class="content-tabs">
               <section>
-                <h4>Target Roles</h4>
+                <h4>
+                  Target Roles
+                  <span class="zh" lang="zh-Hans">目标职位</span>
+                </h4>
                 <ul class="resume-list compact">
-                  <li>Family Operations Assistant</li>
-                  <li>Home Organization Consultant</li>
-                  <li>Meal Prep & Household Planning Helper</li>
+                  <li>
+                    Family Operations Assistant
+                    <span class="zh" lang="zh-Hans">家庭运营助理</span>
+                  </li>
+                  <li>
+                    Home Organization Consultant
+                    <span class="zh" lang="zh-Hans">家居整理顾问</span>
+                  </li>
+                  <li>
+                    Meal Prep & Household Planning Helper
+                    <span class="zh" lang="zh-Hans">餐食准备与家庭规划助手</span>
+                  </li>
                 </ul>
               </section>
               <section>
-                <h4>Availability & Value</h4>
+                <h4>
+                  Availability & Value
+                  <span class="zh" lang="zh-Hans">可服务时间与价值</span>
+                </h4>
                 <ul class="resume-list compact">
-                  <li>Available: Saturday 2:00 PM - 5:00 PM</li>
-                  <li>Suggested service: 2-hour Small Kitchen Reset Session</li>
-                  <li>Estimated rate: HKD 350-500 per session</li>
+                  <li>
+                    Available: Saturday 2:00 PM - 5:00 PM
+                    <span class="zh" lang="zh-Hans">可服务时间：星期六下午 2:00 - 5:00</span>
+                  </li>
+                  <li>
+                    Suggested service: 2-hour Small Kitchen Reset Session
+                    <span class="zh" lang="zh-Hans">建议服务：2 小时小厨房整理服务</span>
+                  </li>
+                  <li>
+                    Estimated rate: HKD 350-500 per session
+                    <span class="zh" lang="zh-Hans">预估报酬：每次 HKD 350-500</span>
+                  </li>
                 </ul>
               </section>
             </div>
@@ -136,15 +255,27 @@
           <aside class="order-alert" id="order-alert">
             <span class="alert-dot" aria-hidden="true"></span>
             <div>
-              <strong>Resume match signal</strong>
-              <p>1 neighbor requested a weekend kitchen reset trial. Suggested resume headline: Household Operations Specialist. Estimated opportunity: HKD 450.</p>
+              <strong>
+                Resume match signal
+                <span class="zh" lang="zh-Hans">简历匹配信号</span>
+              </strong>
+              <p>
+                1 neighbor requested a weekend kitchen reset trial. Suggested resume headline: Household Operations Specialist. Estimated opportunity: HKD 450.
+                <span class="zh" lang="zh-Hans">1 位邻居预约周末厨房整理试用服务。建议简历标题：家庭运营专员。预估机会价值：HKD 450。</span>
+              </p>
             </div>
           </aside>
         </div>
 
-        <p class="closing-line" id="closing-line">From hidden labor to recognized opportunity.</p>
+        <p class="closing-line" id="closing-line">
+          From hidden labor to recognized opportunity.
+          <span class="zh" lang="zh-Hans">从隐形劳动，到被看见的机会。</span>
+        </p>
         <div class="page-actions">
-          <button class="ghost-button" type="button" id="home-button">Back Home</button>
+          <button class="ghost-button" type="button" id="home-button">
+            Back Home
+            <span class="zh" lang="zh-Hans">返回主页</span>
+          </button>
         </div>
       </section>
     </main>

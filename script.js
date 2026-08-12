@@ -1,19 +1,25 @@
 const example =
-  `Daily memo - Mrs. Chan
+  `Daily memo - Mrs. Chan / 陈太太一日生活记录
 - 7:10 AM: Prepared breakfast and packed school snacks for two children.
+  早上 7:10：准备早餐，并为两个孩子打包上学小食。
 - 8:30 AM: Checked the fridge, made a shopping list, and compared prices.
+  早上 8:30：检查冰箱、列购物清单，并比较价格。
 - 10:15 AM: Bought groceries, storage boxes, and breakfast supplies.
+  上午 10:15：购买食材、收纳盒和早餐用品。
 - 1:00 PM: Reorganized the kitchen into breakfast, baking, and seasoning zones.
+  下午 1:00：把厨房整理成早餐、烘焙和调味分区。
 - 4:30 PM: Helped the children find snacks by themselves after school.
-- 8:45 PM: Reviewed tomorrow's meal plan and family schedule.`;
+  下午 4:30：帮助孩子放学后自行找到小食。
+- 8:45 PM: Reviewed tomorrow's meal plan and family schedule.
+  晚上 8:45：检查明天的餐食计划和家庭日程。`;
 
 const skills = [
-  "Meal Planning",
-  "Budget Awareness",
-  "Procurement",
-  "Space Optimization",
-  "Child Independence Coaching",
-  "Schedule Coordination",
+  "Meal Planning / 餐食规划",
+  "Budget Awareness / 预算意识",
+  "Procurement / 采购管理",
+  "Space Optimization / 空间优化",
+  "Child Independence Coaching / 儿童独立训练",
+  "Schedule Coordination / 日程协调",
 ];
 
 const storyInput = document.querySelector("#daily-story");
@@ -46,7 +52,7 @@ function resetResults() {
   loadingState.hidden = true;
   identityResults.hidden = true;
   identityActions.hidden = true;
-  statusPill.textContent = "Ready";
+  statusPill.textContent = "Ready / 准备就绪";
   skillTags.replaceChildren();
   [...identityCards, ...deliveryCards, orderAlert, closingLine].forEach((node) =>
     node.classList.remove("show"),
@@ -66,7 +72,7 @@ function bloomIdentity() {
   resetResults();
   showPage(identityPage);
   bloomButton.disabled = true;
-  statusPill.textContent = "Analyzing";
+  statusPill.textContent = "Analyzing / 分析中";
   loadingState.hidden = false;
 
   timers.push(
@@ -74,7 +80,7 @@ function bloomIdentity() {
       loadingState.hidden = true;
       identityResults.hidden = false;
       identityActions.hidden = false;
-      statusPill.textContent = "Identity Bloomed";
+      statusPill.textContent = "Identity Bloomed / 身份已生成";
 
       skills.forEach((skill, index) => {
         const tag = document.createElement("span");

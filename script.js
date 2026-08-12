@@ -6,7 +6,7 @@ const examples = {
 - 1:00 PM: Reorganized the kitchen into breakfast, baking, and seasoning zones.
 - 4:30 PM: Helped the children find snacks by themselves after school.
 - 8:45 PM: Reviewed tomorrow's meal plan and family schedule.`,
-  zh: `陈太太一日生活记录
+  zh: `陈太一日生活记录
 - 早上 7:10：准备早餐，并为两个孩子打包上学小食。
 - 早上 8:30：检查冰箱、列购物清单，并比较价格。
 - 上午 10:15：购买食材、收纳盒和早餐用品。

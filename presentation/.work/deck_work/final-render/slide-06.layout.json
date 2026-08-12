@@ -1,0 +1,1753 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/l9lgza",
+    "id": "l9lgza",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Arial",
+      "Arial Black",
+      "Calibri"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lg7mts3q",
+      "id": "3",
+      "name": "Freeform 3",
+      "bbox": [
+        -180.22,
+        -103.84,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q9w3ed43",
+      "id": "4",
+      "name": "Freeform 4",
+      "bbox": [
+        148.46,
+        -103.84,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ba54nilo",
+      "id": "5",
+      "name": "Freeform 5",
+      "bbox": [
+        477.1,
+        -103.84,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbe5gnm9",
+      "id": "6",
+      "name": "Freeform 6",
+      "bbox": [
+        805.78,
+        -103.84,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcnmps3u",
+      "id": "7",
+      "name": "Freeform 7",
+      "bbox": [
+        1134.42,
+        -103.84,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lc3at47",
+      "id": "8",
+      "name": "Freeform 8",
+      "bbox": [
+        1463.09,
+        -103.84,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ml4jylc",
+      "id": "9",
+      "name": "Freeform 9",
+      "bbox": [
+        1791.73,
+        -103.84,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6t8fmxo",
+      "id": "10",
+      "name": "Freeform 10",
+      "bbox": [
+        -180.2,
+        222.59,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i50r6hwj",
+      "id": "11",
+      "name": "Freeform 11",
+      "bbox": [
+        148.48,
+        222.59,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58bqhwfu",
+      "id": "12",
+      "name": "Freeform 12",
+      "bbox": [
+        477.12,
+        222.59,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47298re9",
+      "id": "13",
+      "name": "Freeform 13",
+      "bbox": [
+        805.8,
+        222.59,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rat8jmx0",
+      "id": "14",
+      "name": "Freeform 14",
+      "bbox": [
+        1134.44,
+        222.59,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/69kra1wf",
+      "id": "15",
+      "name": "Freeform 15",
+      "bbox": [
+        1463.11,
+        222.59,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twbqlwf6",
+      "id": "16",
+      "name": "Freeform 16",
+      "bbox": [
+        1791.75,
+        222.59,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sv29crel",
+      "id": "17",
+      "name": "Freeform 17",
+      "bbox": [
+        -180.19,
+        548.98,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ne9872xw",
+      "id": "18",
+      "name": "Freeform 18",
+      "bbox": [
+        148.49,
+        548.98,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdg7yxgb",
+      "id": "19",
+      "name": "Freeform 19",
+      "bbox": [
+        477.13,
+        548.98,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qtob65gj",
+      "id": "20",
+      "name": "Freeform 20",
+      "bbox": [
+        805.81,
+        548.98,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/buxcfah4",
+      "id": "21",
+      "name": "Freeform 21",
+      "bbox": [
+        1134.45,
+        548.98,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cv6t8fyp",
+      "id": "22",
+      "name": "Freeform 22",
+      "bbox": [
+        1463.12,
+        548.98,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dwzuhkza",
+      "id": "23",
+      "name": "Freeform 23",
+      "bbox": [
+        1791.76,
+        548.98,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2pob25gn",
+      "id": "24",
+      "name": "Freeform 24",
+      "bbox": [
+        -180.17,
+        875.41,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qxcbqh8",
+      "id": "25",
+      "name": "Freeform 25",
+      "bbox": [
+        148.51,
+        875.41,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/or6t4vyt",
+      "id": "26",
+      "name": "Freeform 26",
+      "bbox": [
+        477.15,
+        875.41,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psfud0ze",
+      "id": "27",
+      "name": "Freeform 27",
+      "bbox": [
+        805.83,
+        875.41,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e14bylgr",
+      "id": "28",
+      "name": "Freeform 28",
+      "bbox": [
+        1134.47,
+        875.41,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f2ds7qhw",
+      "id": "29",
+      "name": "Freeform 29",
+      "bbox": [
+        1463.14,
+        875.41,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xg3edoje",
+      "id": "30",
+      "name": "Freeform 30",
+      "bbox": [
+        1791.78,
+        875.41,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfax4ji9",
+      "id": "31",
+      "bbox": [
+        650,
+        68,
+        620,
+        82
+      ],
+      "rotation": -1.8,
+      "geometry": "roundRect",
+      "fillColor": "#FFE21A",
+      "lineColor": "#FFE21A",
+      "lineWidth": 2
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ve1wbe1o",
+      "id": "32",
+      "bbox": [
+        550,
+        82,
+        820,
+        70
+      ],
+      "geometry": "rect",
+      "text": "Industries monetize uniqueness",
+      "textPreview": "Industries monetize uniqueness",
+      "resolvedFontSize": 39,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 39,
+        "typeface": "Arial Black",
+        "color": "#111111",
+        "bold": true,
+        "italic": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 2,
+          "bottom": 2,
+          "left": 2
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Industries monetize uniqueness"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Industries monetize uniqueness",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 39,
+            "typeface": "Arial Black",
+            "color": "#111111",
+            "bold": true,
+            "italic": true,
+            "alignment": "center",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Industries monetize uniqueness",
+              "fontSize": 39,
+              "typeface": "Arial Black",
+              "color": "#111111",
+              "bold": true,
+              "italic": true,
+              "alignment": "center",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/dk7qlc3m",
+      "id": "33",
+      "bbox": [
+        100,
+        255,
+        1720,
+        510
+      ],
+      "text": "Labor Identity | Distinctiveness | Example | Digital tool -> value\nVirtual-world designer | spatial intuition + worldbuilding | Roblox maps | game engines + AI -> creator revenue\nKnowledge coach | empathy + explanation style | bilingual tutor | AI lesson plans -> workshops\nHomemaker / IDBLOOM | routine design + care + taste | Mrs. Chan | AI identity engine -> local services",
+      "textPreview": "Labor Identity | Distinctiveness | Example | Digital tool -> value | Virtual-world designer | spatial intuition + worldbuilding | Roblox ...",
+      "rows": 4,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            100,
+            255,
+            430,
+            127.5
+          ],
+          "text": "Labor Identity",
+          "textPreview": "Labor Identity",
+          "fillColor": "#FFE21A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Labor Identity",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "color": "#111111",
+                "bold": true,
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Labor Identity",
+                  "fontSize": 24,
+                  "color": "#111111",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            530,
+            255,
+            430,
+            127.5
+          ],
+          "text": "Distinctiveness",
+          "textPreview": "Distinctiveness",
+          "fillColor": "#FFE21A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Distinctiveness",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "color": "#111111",
+                "bold": true,
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Distinctiveness",
+                  "fontSize": 24,
+                  "color": "#111111",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            960,
+            255,
+            430,
+            127.5
+          ],
+          "text": "Example",
+          "textPreview": "Example",
+          "fillColor": "#FFE21A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Example",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "color": "#111111",
+                "bold": true,
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Example",
+                  "fontSize": 24,
+                  "color": "#111111",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            1390,
+            255,
+            430,
+            127.5
+          ],
+          "text": "Digital tool -> value",
+          "textPreview": "Digital tool -> value",
+          "fillColor": "#FFE21A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Digital tool -> value",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "color": "#111111",
+                "bold": true,
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Digital tool -> value",
+                  "fontSize": 24,
+                  "color": "#111111",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            100,
+            382.5,
+            430,
+            127.5
+          ],
+          "text": "Virtual-world designer",
+          "textPreview": "Virtual-world designer",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Virtual-world designer",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Virtual-world designer",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            530,
+            382.5,
+            430,
+            127.5
+          ],
+          "text": "spatial intuition + worldbuilding",
+          "textPreview": "spatial intuition + worldbuilding",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "spatial intuition + worldbuilding",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "spatial intuition + worldbuilding",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            960,
+            382.5,
+            430,
+            127.5
+          ],
+          "text": "Roblox maps",
+          "textPreview": "Roblox maps",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Roblox maps",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Roblox maps",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            1390,
+            382.5,
+            430,
+            127.5
+          ],
+          "text": "game engines + AI -> creator revenue",
+          "textPreview": "game engines + AI -> creator revenue",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "game engines + AI -> creator revenue",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "game engines + AI -> creator revenue",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            100,
+            510,
+            430,
+            127.5
+          ],
+          "text": "Knowledge coach",
+          "textPreview": "Knowledge coach",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Knowledge coach",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Knowledge coach",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            530,
+            510,
+            430,
+            127.5
+          ],
+          "text": "empathy + explanation style",
+          "textPreview": "empathy + explanation style",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "empathy + explanation style",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "empathy + explanation style",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            960,
+            510,
+            430,
+            127.5
+          ],
+          "text": "bilingual tutor",
+          "textPreview": "bilingual tutor",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "bilingual tutor",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "bilingual tutor",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            1390,
+            510,
+            430,
+            127.5
+          ],
+          "text": "AI lesson plans -> workshops",
+          "textPreview": "AI lesson plans -> workshops",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "AI lesson plans -> workshops",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "AI lesson plans -> workshops",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            100,
+            637.5,
+            430,
+            127.5
+          ],
+          "text": "Homemaker / IDBLOOM",
+          "textPreview": "Homemaker / IDBLOOM",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Homemaker / IDBLOOM",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Homemaker / IDBLOOM",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            530,
+            637.5,
+            430,
+            127.5
+          ],
+          "text": "routine design + care + taste",
+          "textPreview": "routine design + care + taste",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "routine design + care + taste",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "routine design + care + taste",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            960,
+            637.5,
+            430,
+            127.5
+          ],
+          "text": "Mrs. Chan",
+          "textPreview": "Mrs. Chan",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Mrs. Chan",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Mrs. Chan",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            1390,
+            637.5,
+            430,
+            127.5
+          ],
+          "text": "AI identity engine -> local services",
+          "textPreview": "AI identity engine -> local services",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "AI identity engine -> local services",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "color": "#111111",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "AI identity engine -> local services",
+                  "fontSize": 22,
+                  "color": "#111111",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9sje9oji",
+      "id": "34",
+      "bbox": [
+        270,
+        820,
+        1380,
+        48
+      ],
+      "geometry": "rect",
+      "text": "The missing tool for homemakers is not labor matching. It is identity translation.",
+      "textPreview": "The missing tool for homemakers is not labor matching. It is identity translation.",
+      "resolvedFontSize": 35,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 35,
+        "typeface": "Arial",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 2,
+          "bottom": 2,
+          "left": 2
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The missing tool for homemakers is not labor matching. It is identity translation."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The missing tool for homemakers is not labor matching. It is identity translation.",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 35,
+            "typeface": "Arial",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The missing tool for homemakers is not labor matching. It is identity translation.",
+              "fontSize": 35,
+              "typeface": "Arial",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8rad0jix",
+      "id": "35",
+      "bbox": [
+        1420,
+        1014,
+        360,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Time: 4:10-5:00 | Slide 6/8",
+      "textPreview": "Time: 4:10-5:00 | Slide 6/8",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Arial",
+        "color": "#777777",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 2,
+          "bottom": 2,
+          "left": 2
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Time: 4:10-5:00 | Slide 6/8"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Time: 4:10-5:00 | Slide 6/8",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Arial",
+            "color": "#777777",
+            "alignment": "right",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Time: 4:10-5:00 | Slide 6/8",
+              "fontSize": 21,
+              "typeface": "Arial",
+              "color": "#777777",
+              "alignment": "right",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nq1w7e1c",
+      "id": "36",
+      "bbox": [
+        140,
+        1014,
+        520,
+        34
+      ],
+      "geometry": "rect",
+      "text": "IDBLOOM | BPA Topic 3 Labor Identity",
+      "textPreview": "IDBLOOM | BPA Topic 3 Labor Identity",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Arial",
+        "color": "#777777",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 2,
+          "bottom": 2,
+          "left": 2
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "IDBLOOM | BPA Topic 3 Labor Identity"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "IDBLOOM | BPA Topic 3 Labor Identity",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Arial",
+            "color": "#777777",
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IDBLOOM | BPA Topic 3 Labor Identity",
+              "fontSize": 21,
+              "typeface": "Arial",
+              "color": "#777777",
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,1469 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/hgzapcr6",
+    "id": "hgzapcr6",
+    "slide": 13,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Arial Black",
+      "Arial Unicode MS",
+      "Calibri"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq9orito",
+      "id": "3",
+      "name": "Freeform 3",
+      "bbox": [
+        -160.23,
+        -41.29,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3i5w3ad",
+      "id": "4",
+      "name": "Freeform 4",
+      "bbox": [
+        168.45,
+        -41.29,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4r6p8by",
+      "id": "5",
+      "name": "Freeform 5",
+      "bbox": [
+        497.09,
+        -41.29,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/21gnuts7",
+      "id": "6",
+      "name": "Freeform 6",
+      "bbox": [
+        825.76,
+        -41.29,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32ponyts",
+      "id": "7",
+      "name": "Freeform 7",
+      "bbox": [
+        1154.4,
+        -41.29,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gzy5s3a1",
+      "id": "8",
+      "name": "Freeform 8",
+      "bbox": [
+        1483.08,
+        -41.29,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1076lobm",
+      "id": "9",
+      "name": "Freeform 9",
+      "bbox": [
+        1811.72,
+        -41.29,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcfy9k3u",
+      "id": "10",
+      "name": "Freeform 10",
+      "bbox": [
+        -160.21,
+        285.14,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gb6x0zm9",
+      "id": "11",
+      "name": "Freeform 11",
+      "bbox": [
+        168.47,
+        285.14,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vaxg7ulo",
+      "id": "12",
+      "name": "Freeform 12",
+      "bbox": [
+        497.11,
+        285.14,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9ofyp43",
+      "id": "13",
+      "name": "Freeform 13",
+      "bbox": [
+        825.78,
+        285.14,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8fy5k3i",
+      "id": "14",
+      "name": "Freeform 14",
+      "bbox": [
+        1154.42,
+        285.14,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mdg3als",
+      "id": "16",
+      "name": "Freeform 16",
+      "bbox": [
+        1811.74,
+        285.14,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6l4fu547",
+      "id": "17",
+      "name": "Freeform 17",
+      "bbox": [
+        -160.2,
+        611.53,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lkvy103m",
+      "id": "18",
+      "name": "Freeform 18",
+      "bbox": [
+        168.48,
+        611.53,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      },
+      "tableCell": {
+        "tableAid": "tb/e1k7i10v",
+        "cellIndex": 4,
+        "row": 2,
+        "column": 1,
+        "overlap": 0.9
+      }
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjmxsfm1",
+      "id": "19",
+      "name": "Freeform 19",
+      "bbox": [
+        497.12,
+        611.53,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      },
+      "tableCell": {
+        "tableAid": "tb/e1k7i10v",
+        "cellIndex": 4,
+        "row": 2,
+        "column": 1,
+        "overlap": 0.72
+      }
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cnqh8fux",
+      "id": "20",
+      "name": "Freeform 20",
+      "bbox": [
+        825.79,
+        611.53,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      },
+      "tableCell": {
+        "tableAid": "tb/e1k7i10v",
+        "cellIndex": 5,
+        "row": 2,
+        "column": 2,
+        "overlap": 1
+      }
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xozyhkbi",
+      "id": "21",
+      "name": "Freeform 21",
+      "bbox": [
+        1154.43,
+        611.53,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      },
+      "tableCell": {
+        "tableAid": "tb/e1k7i10v",
+        "cellIndex": 6,
+        "row": 2,
+        "column": 3,
+        "overlap": 0.72
+      }
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q18f65cr",
+      "id": "22",
+      "name": "Freeform 22",
+      "bbox": [
+        1483.11,
+        611.53,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      },
+      "tableCell": {
+        "tableAid": "tb/e1k7i10v",
+        "cellIndex": 6,
+        "row": 2,
+        "column": 3,
+        "overlap": 0.9
+      }
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bmhgfatc",
+      "id": "23",
+      "name": "Freeform 23",
+      "bbox": [
+        1811.75,
+        611.53,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oz6x4vul",
+      "id": "24",
+      "name": "Freeform 24",
+      "bbox": [
+        -160.18,
+        937.96,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0zyd0b6",
+      "id": "25",
+      "name": "Freeform 25",
+      "bbox": [
+        168.5,
+        937.96,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2xof2lcv",
+      "id": "26",
+      "name": "Freeform 26",
+      "bbox": [
+        497.14,
+        937.96,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3yxgbqdg",
+      "id": "27",
+      "name": "Freeform 27",
+      "bbox": [
+        825.81,
+        937.96,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8vahgzu5",
+      "id": "28",
+      "name": "Freeform 28",
+      "bbox": [
+        1154.45,
+        937.96,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9wjyp4bq",
+      "id": "29",
+      "name": "Freeform 29",
+      "bbox": [
+        1483.13,
+        937.96,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqlkfyds",
+      "id": "30",
+      "name": "Freeform 30",
+      "bbox": [
+        1811.77,
+        937.96,
+        308.43,
+        308.43
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image2.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 13103
+      }
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dwjqtw3",
+      "id": "35",
+      "name": "Freeform 35",
+      "bbox": [
+        180.38,
+        79.81,
+        1675.21,
+        117.77
+      ],
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image4.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 9431
+      }
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ipcjmtw7",
+      "id": "31",
+      "name": "文本框 30",
+      "bbox": [
+        318.45,
+        84.28,
+        1399.07,
+        113.3
+      ],
+      "geometry": "rect",
+      "text": "E-commerce product monetization",
+      "textPreview": "E-commerce product monetization",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "E-commerce product monetization"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "E-commerce product monetization",
+          "runs": [
+            {
+              "index": 1,
+              "text": "E",
+              "fontSize": 72,
+              "typeface": "Arial Black"
+            },
+            {
+              "index": 2,
+              "text": "-",
+              "fontSize": 72,
+              "typeface": "Arial Black"
+            },
+            {
+              "index": 3,
+              "text": "commerce product monetization",
+              "fontSize": 72,
+              "typeface": "Arial Black"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/876xwfmx",
+      "id": "15",
+      "name": "文本框 14",
+      "bbox": [
+        172.22,
+        230.34,
+        1691.52,
+        54.8
+      ],
+      "geometry": "rect",
+      "text": "Suitable for users with skills in handicrafts, baking, cooking, and template making.",
+      "textPreview": "Suitable for users with skills in handicrafts, baking, cooking, and template making.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Suitable for users with skills in handicrafts, baking, cooking, and template making."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Suitable for users with skills in handicrafts, baking, cooking, and template making.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Suitable for users with skills in handicrafts, baking, cooking, and template making.",
+              "fontSize": 42.67,
+              "typeface": "Arial Unicode MS",
+              "color": "tx1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 31,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/e1k7i10v",
+      "id": "36",
+      "name": "表格 31",
+      "bbox": [
+        198.08,
+        333.43,
+        1563.8,
+        618.04
+      ],
+      "text": "The platform includes: | Products for Sale: | AI can generate:\nTaoBao\n\nAmazon\n\nEtsy\n\nShopify | Handicrafts\r\nChildren's meal recipe\r\nFamily budget sheet\r\nStorage label template\r\nTravel plan template\r\nFamily meal prep list | Product Title\r\nProduct Details Page\r\nPricing Suggestions\r\nProduct Story\r\nUser Review Template\r\nCross-platform Translation Copy",
+      "textPreview": "The platform includes: | Products for Sale: | AI can generate: | TaoBao |  | Amazon |  | Etsy |  | Shopify | Handicrafts | Children's mea...",
+      "rows": 2,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            198.08,
+            333.43,
+            521.27,
+            116.57
+          ],
+          "text": "The platform includes:",
+          "textPreview": "The platform includes:",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "The platform includes:",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "The platform includes:",
+                  "fontSize": 37.33,
+                  "typeface": "Arial Black"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            719.35,
+            333.43,
+            521.27,
+            116.57
+          ],
+          "text": "Products for Sale:",
+          "textPreview": "Products for Sale:",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Products for Sale:",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Products for Sale:",
+                  "fontSize": 37.33,
+                  "typeface": "Arial Black"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            1240.61,
+            333.43,
+            521.27,
+            116.57
+          ],
+          "text": "AI can generate:",
+          "textPreview": "AI can generate:",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "AI can generate:",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "AI can generate:",
+                  "fontSize": 37.33,
+                  "typeface": "Arial Black"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            198.08,
+            450,
+            521.27,
+            501.47
+          ],
+          "text": "TaoBao\n\nAmazon\n\nEtsy\n\nShopify",
+          "textPreview": "TaoBao |  | Amazon |  | Etsy |  | Shopify",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "TaoBao",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Tao",
+                  "fontSize": 42.67
+                },
+                {
+                  "index": 2,
+                  "text": "Bao",
+                  "fontSize": 42.67
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Amazon",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Amazon",
+                  "fontSize": 42.67
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Etsy",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Etsy",
+                  "fontSize": 42.67
+                }
+              ]
+            },
+            {
+              "index": 7,
+              "text": "Shopify",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Shopify",
+                  "fontSize": 42.67
+                }
+              ]
+            }
+          ],
+          "ownedElementAids": [
+            "sh/lkvy103m",
+            "sh/kjmxsfm1"
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            719.35,
+            450,
+            521.27,
+            501.47
+          ],
+          "text": "Handicrafts\r\nChildren's meal recipe\r\nFamily budget sheet\r\nStorage label template\r\nTravel plan template\r\nFamily meal prep list",
+          "textPreview": "Handicrafts | Children's meal recipe | Family budget sheet | Storage label template | Travel plan template | Family meal prep list",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Handicrafts\r",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Handicrafts\r",
+                  "fontSize": 32,
+                  "typeface": "Arial Unicode MS"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Children's meal recipe\r",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Children's meal recipe\r",
+                  "fontSize": 32,
+                  "typeface": "Arial Unicode MS"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Family budget sheet\r",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Family budget sheet\r",
+                  "fontSize": 32,
+                  "typeface": "Arial Unicode MS"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Storage label template\r",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Storage label template\r",
+                  "fontSize": 32,
+                  "typeface": "Arial Unicode MS"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Travel plan template\r",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Travel plan template\r",
+                  "fontSize": 32,
+                  "typeface": "Arial Unicode MS"
+                }
+              ]
+            },
+            {
+              "index": 6,
+              "text": "Family meal prep list",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Family meal prep list",
+                  "fontSize": 32,
+                  "typeface": "Arial Unicode MS"
+                }
+              ]
+            }
+          ],
+          "ownedElementAids": [
+            "sh/cnqh8fux"
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            1240.61,
+            450,
+            521.27,
+            501.47
+          ],
+          "text": "Product Title\r\nProduct Details Page\r\nPricing Suggestions\r\nProduct Story\r\nUser Review Template\r\nCross-platform Translation Copy",
+          "textPreview": "Product Title | Product Details Page | Pricing Suggestions | Product Story | User Review Template | Cross-platform Translation Copy",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Product Title\r",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Product Title\r",
+                  "fontSize": 32
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Product Details Page\r",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Product Details Page\r",
+                  "fontSize": 32
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Pricing Suggestions\r",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Pricing Suggestions\r",
+                  "fontSize": 32
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Product Story\r",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Product Story\r",
+                  "fontSize": 32
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "User Review Template\r",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "User Review Template\r",
+                  "fontSize": 32
+                }
+              ]
+            },
+            {
+              "index": 6,
+              "text": "Cross-platform Translation Copy",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Cross",
+                  "fontSize": 32
+                },
+                {
+                  "index": 2,
+                  "text": "-",
+                  "fontSize": 32
+                },
+                {
+                  "index": 3,
+                  "text": "platform Translation Copy",
+                  "fontSize": 32
+                }
+              ]
+            }
+          ],
+          "ownedElementAids": [
+            "sh/xozyhkbi",
+            "sh/q18f65cr"
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

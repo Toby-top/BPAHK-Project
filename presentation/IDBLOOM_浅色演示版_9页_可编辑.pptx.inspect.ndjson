@@ -1,0 +1,472 @@
+{"kind":"deck","id":"pr/xqxn0j","name":"Deck"}
+{"kind":"layout","layoutId":"2384c2f4-e2ec-4d5c-a2b8-75b29d160369","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"54d71b7c-55ca-453e-9548-a762be4cd3a4","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/drrc3x","slide":1,"title":"Topic 3 / Labor Identity","textShapes":9}
+{"kind":"shape","id":"sh/cfutonyd","slide":1,"bbox":[0,0,680,1080]}
+{"kind":"shape","id":"sh/relcfihs","slide":1,"bbox":[1420,0,500,1080]}
+{"kind":"shape","id":"sh/qdsbmdg7","slide":1,"bbox":[160,0,0,1080]}
+{"kind":"shape","id":"sh/pcjud8zm","slide":1,"bbox":[320,0,0,1080]}
+{"kind":"shape","id":"sh/4batk3y1","slide":1,"bbox":[480,0,0,1080]}
+{"kind":"shape","id":"sh/3a1sbyhg","slide":1,"bbox":[640,0,0,1080]}
+{"kind":"shape","id":"sh/29sbitgb","slide":1,"bbox":[800,0,0,1080]}
+{"kind":"shape","id":"sh/h8japozq","slide":1,"bbox":[960,0,0,1080]}
+{"kind":"shape","id":"sh/g7atg3y5","slide":1,"bbox":[1120,0,0,1080]}
+{"kind":"shape","id":"sh/694redgj","slide":1,"bbox":[1280,0,0,1080]}
+{"kind":"shape","id":"sh/7ad87ix4","slide":1,"bbox":[1440,0,0,1080]}
+{"kind":"shape","id":"sh/8bm9gnyp","slide":1,"bbox":[1600,0,0,1080]}
+{"kind":"shape","id":"sh/tcvq9sfa","slide":1,"bbox":[1760,0,0,1080]}
+{"kind":"shape","id":"sh/y54radgn","slide":1,"bbox":[0,160,1920,0]}
+{"kind":"shape","id":"sh/j6d83yx8","slide":1,"bbox":[0,320,1920,0]}
+{"kind":"shape","id":"sh/k7m9c3yt","slide":1,"bbox":[0,480,1920,0]}
+{"kind":"shape","id":"sh/l8vq58fy","slide":1,"bbox":[0,640,1920,0]}
+{"kind":"shape","id":"sh/a1k76tgb","slide":1,"bbox":[0,800,1920,0]}
+{"kind":"shape","id":"sh/b2t8zyxw","slide":1,"bbox":[0,960,1920,0]}
+{"kind":"textbox","id":"sh/fapwra9c","slide":1,"text":"Topic 3 / Labor Identity","textPreview":"Topic 3 / Labor Identity","textChars":24,"textLines":1,"bbox":[104,210,620,36]}
+{"kind":"textbox","id":"sh/e9gfi5s7","slide":1,"text":"IDBLOOM","textPreview":"IDBLOOM","textChars":7,"textLines":1,"bbox":[104,262,760,160]}
+{"kind":"textbox","id":"sh/1w7et0ri","slide":1,"text":"Turning invisible home expertise into visible economic value","textPreview":"Turning invisible home expertise into visible economic value","textChars":60,"textLines":1,"bbox":[104,470,840,118]}
+{"kind":"shape","id":"sh/0byxkvax","slide":1,"bbox":[104,642,7,78]}
+{"kind":"shape","id":"sh/nypwva9o","slide":1,"bbox":[118,642,826,78]}
+{"kind":"textbox","id":"sh/2xgfm5s3","slide":1,"text":"From unpaid homemaker to Household Operations Specialist","textPreview":"From unpaid homemaker to Household Operations Specialist","textChars":56,"textLines":1,"bbox":[150,661,760,42]}
+{"kind":"shape","id":"sh/p0ryxkru","slide":1,"bbox":[1020,160,800,720]}
+{"kind":"shape","id":"sh/ozyxofa9","slide":1,"bbox":[1045,215,730,0]}
+{"kind":"shape","id":"sh/325wj69k","slide":1,"bbox":[1045,273,730,0]}
+{"kind":"shape","id":"sh/i1cvalsz","slide":1,"bbox":[1045,331,730,0]}
+{"kind":"shape","id":"sh/87atk7qh","slide":1,"bbox":[1045,389,730,0]}
+{"kind":"shape","id":"sh/98jutc72","slide":1,"bbox":[1045,447,730,0]}
+{"kind":"shape","id":"sh/mlsbih8r","slide":1,"bbox":[1045,505,730,0]}
+{"kind":"shape","id":"sh/761crmpc","slide":1,"bbox":[1045,563,730,0]}
+{"kind":"shape","id":"sh/kjatg7ql","slide":1,"bbox":[1045,621,730,0]}
+{"kind":"shape","id":"sh/lkjupc76","slide":1,"bbox":[1045,679,730,0]}
+{"kind":"shape","id":"sh/yh8bex8f","slide":1,"bbox":[1045,737,730,0]}
+{"kind":"shape","id":"sh/zi1cn2p0","slide":1,"bbox":[1045,795,730,0]}
+{"kind":"shape","id":"sh/4fudsrqp","slide":1,"bbox":[1146,276,516,402]}
+{"kind":"shape","id":"sh/5g3u1w7a","slide":1,"bbox":[1200,360,210,16]}
+{"kind":"shape","id":"sh/1kfqtonm","slide":1,"bbox":[1200,434,330,16]}
+{"kind":"shape","id":"sh/0j69k36h","slide":1,"bbox":[1200,508,270,16]}
+{"kind":"shape","id":"sh/fid8ry5w","slide":1,"bbox":[1460,345,126,126]}
+{"kind":"shape","id":"sh/eh4ritob","slide":1,"bbox":[1600,222,172,172]}
+{"kind":"textbox","id":"sh/pofqx8ny","slide":1,"text":"Inner\nIdentity","textPreview":"Inner | Identity","textChars":14,"textLines":2,"bbox":[1618,267,136,74]}
+{"kind":"shape","id":"sh/on69o36d","slide":1,"bbox":[1538,680,172,172]}
+{"kind":"textbox","id":"sh/nmx8vy5s","slide":1,"text":"Demand\nDelivery","textPreview":"Demand | Delivery","textChars":15,"textLines":2,"bbox":[1556,725,136,74]}
+{"kind":"shape","id":"sh/2lormto7","slide":1,"bbox":[1110,742,172,172]}
+{"kind":"textbox","id":"sh/xsza18nu","slide":1,"text":"Market\nValue","textPreview":"Market | Value","textChars":12,"textLines":2,"bbox":[1128,787,136,74]}
+{"kind":"shape","id":"sh/crq9sn69","slide":1,"bbox":[104,994,1712,0]}
+{"kind":"textbox","id":"sh/ux0nm54r","slide":1,"text":"IDBLOOM / BPA Topic 3","textPreview":"IDBLOOM / BPA Topic 3","textChars":21,"textLines":1,"bbox":[104,1012,760,28]}
+{"kind":"textbox","id":"sh/vy9ovalc","slide":1,"text":"0:00-0:35 / 01","textPreview":"0:00-0:35 / 01","textChars":14,"textLines":1,"bbox":[1280,1012,536,28]}
+{"kind":"notes","id":"nt/drrc3x","slide":1,"text":"Opening thesis: IDBLOOM helps homemakers translate daily work into recognized identity and market opportunities.\n[Sources] README.md; original prompt; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/20dh05","slide":2,"title":"Problem","textShapes":15}
+{"kind":"shape","id":"sh/d8z61ofy","slide":2,"bbox":[0,0,680,1080]}
+{"kind":"shape","id":"sh/q5onqtw7","slide":2,"bbox":[1420,0,500,1080]}
+{"kind":"shape","id":"sh/b6xozexs","slide":2,"bbox":[160,0,0,1080]}
+{"kind":"shape","id":"sh/0bq5w3ep","slide":2,"bbox":[320,0,0,1080]}
+{"kind":"shape","id":"sh/lcz658fu","slide":2,"bbox":[480,0,0,1080]}
+{"kind":"shape","id":"sh/y98nutwj","slide":2,"bbox":[640,0,0,1080]}
+{"kind":"shape","id":"sh/zaho3yx4","slide":2,"bbox":[800,0,0,1080]}
+{"kind":"shape","id":"sh/gfm5kze5","slide":2,"bbox":[960,0,0,1080]}
+{"kind":"shape","id":"sh/1gf6t4fq","slide":2,"bbox":[1120,0,0,1080]}
+{"kind":"shape","id":"sh/103alc36","slide":2,"bbox":[1280,0,0,1080]}
+{"kind":"shape","id":"sh/0zu9c72l","slide":2,"bbox":[1440,0,0,1080]}
+{"kind":"shape","id":"sh/fylsj2l0","slide":2,"bbox":[1600,0,0,1080]}
+{"kind":"shape","id":"sh/excraxkv","slide":2,"bbox":[1760,0,0,1080]}
+{"kind":"shape","id":"sh/p4napc3i","slide":2,"bbox":[0,160,1920,0]}
+{"kind":"shape","id":"sh/o3e9g72x","slide":2,"bbox":[0,320,1920,0]}
+{"kind":"shape","id":"sh/n25sn2lc","slide":2,"bbox":[0,480,1920,0]}
+{"kind":"shape","id":"sh/21crehkr","slide":2,"bbox":[0,640,1920,0]}
+{"kind":"shape","id":"sh/xsnatw3e","slide":2,"bbox":[0,800,1920,0]}
+{"kind":"shape","id":"sh/cre9kr2t","slide":2,"bbox":[0,960,1920,0]}
+{"kind":"textbox","id":"sh/wn6lczeh","slide":2,"text":"Problem","textPreview":"Problem","textChars":7,"textLines":1,"bbox":[104,76,620,34]}
+{"kind":"textbox","id":"sh/hof254vm","slide":2,"text":"Invisible work has no market language","textPreview":"Invisible work has no market language","textChars":37,"textLines":1,"bbox":[104,122,1520,158]}
+{"kind":"shape","id":"sh/ulo3apwb","slide":2,"bbox":[104,320,830,430]}
+{"kind":"textbox","id":"sh/vmxk3udw","slide":2,"text":"Resume field","textPreview":"Resume field","textChars":12,"textLines":1,"bbox":[158,368,420,42]}
+{"kind":"textbox","id":"sh/4bqlgzed","slide":2,"text":"Unemployed","textPreview":"Unemployed","textChars":10,"textLines":1,"bbox":[158,450,690,118]}
+{"kind":"shape","id":"sh/5czm94vy","slide":2,"bbox":[156,546,720,8]}
+{"kind":"textbox","id":"sh/i9o3epw7","slide":2,"text":"A homemaker may work all day, but her resume still says nothing.","textPreview":"A homemaker may work all day, but her resume still says nothing.","textChars":64,"textLines":1,"bbox":[158,624,650,74]}
+{"kind":"shape","id":"sh/jaxk7uds","slide":2,"bbox":[1015,320,5,118]}
+{"kind":"shape","id":"sh/kfml4fe9","slide":2,"bbox":[1020,320,796,118]}
+{"kind":"textbox","id":"sh/lgv2x0fu","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1050,354,78,48]}
+{"kind":"textbox","id":"sh/nalo3ixc","slide":2,"text":"Skills are unnamed","textPreview":"Skills are unnamed","textChars":18,"textLines":1,"bbox":[1140,345,610,58]}
+{"kind":"shape","id":"sh/29snadgr","slide":2,"bbox":[1015,464,5,118]}
+{"kind":"shape","id":"sh/pc3658f2","slide":2,"bbox":[1020,464,796,118]}
+{"kind":"textbox","id":"sh/obu5cnyx","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1050,498,78,48]}
+{"kind":"textbox","id":"sh/f61ozyx0","slide":2,"text":"Labor is unpaid and unseen","textPreview":"Labor is unpaid and unseen","textChars":26,"textLines":1,"bbox":[1140,489,610,58]}
+{"kind":"shape","id":"sh/e5sn6tgf","slide":2,"bbox":[1015,608,5,118]}
+{"kind":"shape","id":"sh/18j618f6","slide":2,"bbox":[1020,608,796,118]}
+{"kind":"textbox","id":"sh/07a583yl","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1050,642,78,48]}
+{"kind":"textbox","id":"sh/rihovyx4","slide":2,"text":"Identity is hidden inside family roles","textPreview":"Identity is hidden inside family roles","textChars":38,"textLines":1,"bbox":[1140,633,610,58]}
+{"kind":"shape","id":"sh/qh8n2tgj","slide":2,"bbox":[104,840,1712,96]}
+{"kind":"textbox","id":"sh/6pcr6hc3","slide":2,"text":"Not a lack of ability.","textPreview":"Not a lack of ability.","textChars":22,"textLines":1,"bbox":[138,864,720,48]}
+{"kind":"textbox","id":"sh/7qlsfmto","slide":2,"text":"A lack of translation.","textPreview":"A lack of translation.","textChars":22,"textLines":1,"bbox":[1040,864,700,48]}
+{"kind":"shape","id":"sh/8ru98ru9","slide":2,"bbox":[104,994,1712,0]}
+{"kind":"textbox","id":"sh/tc3ahwbu","slide":2,"text":"Hidden labor -> unnamed value","textPreview":"Hidden labor -> unnamed value","textChars":29,"textLines":1,"bbox":[104,1012,760,28]}
+{"kind":"textbox","id":"sh/ylsr2hc7","slide":2,"text":"0:35-1:15 / 02","textPreview":"0:35-1:15 / 02","textChars":14,"textLines":1,"bbox":[1280,1012,536,28]}
+{"kind":"notes","id":"nt/20dh05","slide":2,"text":"Core problem: homemakers are not lacking ability; their work lacks market translation.\n[Sources] README.md; original prompt; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/79smts","slide":3,"title":"Mechanism","textShapes":26}
+{"kind":"shape","id":"sh/xgb2h4ja","slide":3,"bbox":[0,0,680,1080]}
+{"kind":"shape","id":"sh/ad036p0z","slide":3,"bbox":[1420,0,500,1080]}
+{"kind":"shape","id":"sh/be9kfu1k","slide":3,"bbox":[160,0,0,1080]}
+{"kind":"shape","id":"sh/k32lczi1","slide":3,"bbox":[320,0,0,1080]}
+{"kind":"shape","id":"sh/l4bml4jm","slide":3,"bbox":[480,0,0,1080]}
+{"kind":"shape","id":"sh/yhk3a90v","slide":3,"bbox":[640,0,0,1080]}
+{"kind":"shape","id":"sh/j2t4ju1g","slide":3,"bbox":[800,0,0,1080]}
+{"kind":"shape","id":"sh/07yl0f2x","slide":3,"bbox":[960,0,0,1080]}
+{"kind":"shape","id":"sh/18729kji","slide":3,"bbox":[1120,0,0,1080]}
+{"kind":"shape","id":"sh/xoj6pcvq","slide":3,"bbox":[1280,0,0,1080]}
+{"kind":"shape","id":"sh/wna5g7u5","slide":3,"bbox":[1440,0,0,1080]}
+{"kind":"shape","id":"sh/bm1on2dk","slide":3,"bbox":[1600,0,0,1080]}
+{"kind":"shape","id":"sh/alsnexcf","slide":3,"bbox":[1760,0,0,1080]}
+{"kind":"shape","id":"sh/ls36twv2","slide":3,"bbox":[0,160,1920,0]}
+{"kind":"shape","id":"sh/kru5kruh","slide":3,"bbox":[0,320,1920,0]}
+{"kind":"shape","id":"sh/jq1ormdw","slide":3,"bbox":[0,480,1920,0]}
+{"kind":"shape","id":"sh/ypsnihcb","slide":3,"bbox":[0,640,1920,0]}
+{"kind":"shape","id":"sh/tg36xwvy","slide":3,"bbox":[0,800,1920,0]}
+{"kind":"shape","id":"sh/8fu5orud","slide":3,"bbox":[0,960,1920,0]}
+{"kind":"textbox","id":"sh/sz2p0v2p","slide":3,"text":"Mechanism","textPreview":"Mechanism","textChars":9,"textLines":1,"bbox":[104,76,620,34]}
+{"kind":"textbox","id":"sh/d0bqt0ja","slide":3,"text":"IDBLOOM = Identity + Delivery","textPreview":"IDBLOOM = Identity + Delivery","textChars":29,"textLines":1,"bbox":[104,122,1240,158]}
+{"kind":"shape","id":"sh/qxk7y5kj","slide":3,"bbox":[104,292,480,184]}
+{"kind":"textbox","id":"sh/ryt8ra14","slide":3,"text":"Inner Identity","textPreview":"Inner Identity","textChars":14,"textLines":1,"bbox":[138,326,410,48]}
+{"kind":"textbox","id":"sh/0nmp4f2l","slide":3,"text":"AI discovers hidden skills from daily home life.","textPreview":"AI discovers hidden skills from daily home life.","textChars":48,"textLines":1,"bbox":[138,394,390,58]}
+{"kind":"shape","id":"sh/1ovqxkj6","slide":3,"bbox":[720,292,480,184]}
+{"kind":"textbox","id":"sh/elk725kv","slide":3,"text":"Identity Passport","textPreview":"Identity Passport","textChars":17,"textLines":1,"bbox":[754,326,410,48]}
+{"kind":"textbox","id":"sh/fmt8va10","slide":3,"text":"Evidence, tags, cases, availability, and value language.","textPreview":"Evidence, tags, cases, availability, and value language.","textChars":56,"textLines":1,"bbox":[754,394,390,58]}
+{"kind":"shape","id":"sh/wripsb2h","slide":3,"bbox":[1336,292,480,184]}
+{"kind":"textbox","id":"sh/hsrqlgj2","slide":3,"text":"Demand Delivery","textPreview":"Demand Delivery","textChars":15,"textLines":1,"bbox":[1370,326,410,48]}
+{"kind":"textbox","id":"sh/zmhsrelk","slide":3,"text":"Routes skills into services, content, products, and local orders.","textPreview":"Routes skills into services, content, products, and local orders.","textChars":65,"textLines":1,"bbox":[1370,394,390,58]}
+{"kind":"shape","id":"sh/ylobyt4z","slide":3,"bbox":[610,382,84,0]}
+{"kind":"textbox","id":"sh/lozato3q","slide":3,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[680,358,32,40]}
+{"kind":"shape","id":"sh/knqt0jm5","slide":3,"bbox":[1226,382,84,0]}
+{"kind":"textbox","id":"sh/bixsnel8","slide":3,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[1296,358,32,40]}
+{"kind":"shape","id":"sh/ahobu943","slide":3,"bbox":[104,592,320,5]}
+{"kind":"shape","id":"sh/xkfapo3e","slide":3,"bbox":[104,597,320,190]}
+{"kind":"textbox","id":"sh/cj6twjmt","slide":3,"text":"Daily memo","textPreview":"Daily memo","textChars":10,"textLines":1,"bbox":[128,626,270,70]}
+{"kind":"textbox","id":"sh/nuxsjulc","slide":3,"text":"voice / photo / to-do","textPreview":"voice / photo / to-do","textChars":21,"textLines":1,"bbox":[128,718,260,45]}
+{"kind":"textbox","id":"sh/2t4bq94r","slide":3,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[426,672,28,36]}
+{"kind":"shape","id":"sh/i18fux0b","slide":3,"bbox":[448,592,320,5]}
+{"kind":"shape","id":"sh/32hwn2hw","slide":3,"bbox":[448,597,320,190]}
+{"kind":"textbox","id":"sh/4nqxw7ih","slide":3,"text":"Skill extraction","textPreview":"Skill extraction","textChars":16,"textLines":1,"bbox":[472,626,270,70]}
+{"kind":"textbox","id":"sh/5ozepcz2","slide":3,"text":"name hidden competence","textPreview":"name hidden competence","textChars":22,"textLines":1,"bbox":[472,718,260,45]}
+{"kind":"textbox","id":"sh/uxofqx0f","slide":3,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[770,672,28,36]}
+{"kind":"shape","id":"sh/vyxwj210","slide":3,"bbox":[792,592,320,5]}
+{"kind":"shape","id":"sh/gz6xsni5","slide":3,"bbox":[792,597,320,190]}
+{"kind":"textbox","id":"sh/h0zelszq","slide":3,"text":"Evidence portfolio","textPreview":"Evidence portfolio","textChars":18,"textLines":1,"bbox":[816,626,270,70]}
+{"kind":"textbox","id":"sh/6tovmd03","slide":3,"text":"cases + tags + availability","textPreview":"cases + tags + availability","textChars":27,"textLines":1,"bbox":[816,718,260,45]}
+{"kind":"textbox","id":"sh/7uxwfi1o","slide":3,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[1114,672,28,36]}
+{"kind":"shape","id":"sh/90nqhkni","slide":3,"bbox":[1136,592,320,5]}
+{"kind":"shape","id":"sh/8ze98f6x","slide":3,"bbox":[1136,597,320,190]}
+{"kind":"textbox","id":"sh/ny58fa5c","slide":3,"text":"Market packaging","textPreview":"Market packaging","textChars":16,"textLines":1,"bbox":[1160,626,270,70]}
+{"kind":"textbox","id":"sh/mxwr65or","slide":3,"text":"service / content / product","textPreview":"service / content / product","textChars":27,"textLines":1,"bbox":[1160,718,260,45]}
+{"kind":"textbox","id":"sh/lw3qd0nm","slide":3,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[1458,672,28,36]}
+{"kind":"shape","id":"sh/0vup4v61","slide":3,"bbox":[1480,592,320,5]}
+{"kind":"shape","id":"sh/zul8bqpg","slide":3,"bbox":[1480,597,320,190]}
+{"kind":"textbox","id":"sh/ytc725ov","slide":3,"text":"Local matching","textPreview":"Local matching","textChars":14,"textLines":1,"bbox":[1504,626,270,70]}
+{"kind":"textbox","id":"sh/d83q907a","slide":3,"text":"orders + feedback","textPreview":"orders + feedback","textChars":17,"textLines":1,"bbox":[1504,718,260,45]}
+{"kind":"shape","id":"sh/c7up0v6p","slide":3,"bbox":[104,994,1712,0]}
+{"kind":"textbox","id":"sh/4by9wvel","slide":3,"text":"Product flow","textPreview":"Product flow","textChars":12,"textLines":1,"bbox":[104,1012,760,28]}
+{"kind":"textbox","id":"sh/pc7qp0f6","slide":3,"text":"1:15-2:05 / 03","textPreview":"1:15-2:05 / 03","textChars":14,"textLines":1,"bbox":[1280,1012,536,28]}
+{"kind":"notes","id":"nt/79smts","slide":3,"text":"Product flow: daily input -> skill extraction -> Identity Passport -> Demand Delivery.\n[Sources] README.md; original prompt; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/oixzq6","slide":4,"title":"Demo Story","textShapes":12}
+{"kind":"shape","id":"sh/dwzm14be","slide":4,"bbox":[0,0,680,1080]}
+{"kind":"shape","id":"sh/qt83qpc3","slide":4,"bbox":[1420,0,500,1080]}
+{"kind":"shape","id":"sh/buh4zut8","slide":4,"bbox":[160,0,0,1080]}
+{"kind":"shape","id":"sh/0zalwzu5","slide":4,"bbox":[320,0,0,1080]}
+{"kind":"shape","id":"sh/l0jm54bq","slide":4,"bbox":[480,0,0,1080]}
+{"kind":"shape","id":"sh/yx83u9cz","slide":4,"bbox":[640,0,0,1080]}
+{"kind":"shape","id":"sh/zy143utk","slide":4,"bbox":[800,0,0,1080]}
+{"kind":"shape","id":"sh/g36lkful","slide":4,"bbox":[960,0,0,1080]}
+{"kind":"shape","id":"sh/h4fmtkb6","slide":4,"bbox":[1120,0,0,1080]}
+{"kind":"shape","id":"sh/xo361orm","slide":4,"bbox":[1280,0,0,1080]}
+{"kind":"shape","id":"sh/cnu5s3ah","slide":4,"bbox":[1440,0,0,1080]}
+{"kind":"shape","id":"sh/bmlozy9w","slide":4,"bbox":[1600,0,0,1080]}
+{"kind":"shape","id":"sh/q1cnqtsb","slide":4,"bbox":[1760,0,0,1080]}
+{"kind":"shape","id":"sh/lsn658ry","slide":4,"bbox":[0,160,1920,0]}
+{"kind":"shape","id":"sh/kre5w3ad","slide":4,"bbox":[0,320,1920,0]}
+{"kind":"shape","id":"sh/zqlo3y9s","slide":4,"bbox":[0,480,1920,0]}
+{"kind":"shape","id":"sh/ypcnuts7","slide":4,"bbox":[0,640,1920,0]}
+{"kind":"shape","id":"sh/9wn698ru","slide":4,"bbox":[0,800,1920,0]}
+{"kind":"shape","id":"sh/8ve50nap","slide":4,"bbox":[0,960,1920,0]}
+{"kind":"textbox","id":"sh/szmpwril","slide":4,"text":"Demo Story","textPreview":"Demo Story","textChars":10,"textLines":1,"bbox":[104,76,620,34]}
+{"kind":"textbox","id":"sh/t0vq5wz6","slide":4,"text":"One kitchen reset becomes a market offer","textPreview":"One kitchen reset becomes a market offer","textChars":40,"textLines":1,"bbox":[104,122,1520,158]}
+{"kind":"shape","id":"sh/6x47uh0f","slide":4,"bbox":[104,330,810,610]}
+{"kind":"shape","id":"sh/g3690ryx","slide":4,"bbox":[118,624,782,5]}
+{"kind":"textbox","id":"sh/h4fq9wz2","slide":4,"text":"\"I used 6 storage boxes to reorganize my kitchen.\"","textPreview":"\"I used 6 storage boxes to reorganize my kitchen.\"","textChars":50,"textLines":1,"bbox":[980,330,830,168]}
+{"kind":"shape","id":"sh/u147y1gr","slide":4,"bbox":[980,548,250,58]}
+{"kind":"textbox","id":"sh/f2x87mhc","slide":4,"text":"Space Planning","textPreview":"Space Planning","textChars":14,"textLines":1,"bbox":[996,559,218,42]}
+{"kind":"shape","id":"sh/w72po7id","slide":4,"bbox":[1248,548,340,58]}
+{"kind":"textbox","id":"sh/x8bqxczy","slide":4,"text":"Storage System Design","textPreview":"Storage System Design","textChars":21,"textLines":1,"bbox":[1264,559,308,42]}
+{"kind":"shape","id":"sh/zm1s3a1g","slide":4,"bbox":[980,626,398,58]}
+{"kind":"textbox","id":"sh/elsba50v","slide":4,"text":"Child Independence Training","textPreview":"Child Independence Training","textChars":27,"textLines":1,"bbox":[996,637,366,42]}
+{"kind":"shape","id":"sh/1oja5kjm","slide":4,"bbox":[1398,626,420,58]}
+{"kind":"textbox","id":"sh/0natcfi1","slide":4,"text":"Family Workflow Optimization","textPreview":"Family Workflow Optimization","textChars":28,"textLines":1,"bbox":[1414,637,388,42]}
+{"kind":"shape","id":"sh/ryhszq1k","slide":4,"bbox":[980,760,830,140]}
+{"kind":"textbox","id":"sh/qx8b65kz","slide":4,"text":"2-hour Small Kitchen Reset","textPreview":"2-hour Small Kitchen Reset","textChars":26,"textLines":1,"bbox":[1014,790,560,48]}
+{"kind":"textbox","id":"sh/dkza10ja","slide":4,"text":"Simulated local demand","textPreview":"Simulated local demand","textChars":22,"textLines":1,"bbox":[1014,848,360,32]}
+{"kind":"textbox","id":"sh/cjqt8vi5","slide":4,"text":"HKD 450","textPreview":"HKD 450","textChars":7,"textLines":1,"bbox":[1600,804,178,60]}
+{"kind":"shape","id":"sh/3uhsvq18","slide":4,"bbox":[104,994,1712,0]}
+{"kind":"textbox","id":"sh/2tob2lkn","slide":4,"text":"Daily action -> skill evidence -> priced service","textPreview":"Daily action -> skill evidence -> priced service","textChars":48,"textLines":1,"bbox":[104,1012,760,28]}
+{"kind":"textbox","id":"sh/i1sf6tgn","slide":4,"text":"2:05-3:05 / 04","textPreview":"2:05-3:05 / 04","textChars":14,"textLines":1,"bbox":[1280,1012,536,28]}
+{"kind":"image","id":"im/szqdcn2l","slide":4,"name":"","geometry":"roundRect","alt":"Organized kitchen shelf used in the IDBLOOM demo","bbox":[118,344,782,582]}
+{"kind":"notes","id":"nt/oixzq6","slide":4,"text":"Demo story: kitchen reset example used to show skill extraction and local demand packaging.\n[Sources] README.md; presentation/assets/idbloom-kitchen.png; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/a8bfwk","slide":5,"title":"Demand Delivery","textShapes":21}
+{"kind":"shape","id":"sh/bud4fqx0","slide":5,"bbox":[0,0,680,1080]}
+{"kind":"shape","id":"sh/cvm58ve5","slide":5,"bbox":[1420,0,500,1080]}
+{"kind":"shape","id":"sh/dwfmh0fq","slide":5,"bbox":[160,0,0,1080]}
+{"kind":"shape","id":"sh/yxona5wb","slide":5,"bbox":[320,0,0,1080]}
+{"kind":"shape","id":"sh/zix4jaxw","slide":5,"bbox":[480,0,0,1080]}
+{"kind":"shape","id":"sh/0j65cfeh","slide":5,"bbox":[640,0,0,1080]}
+{"kind":"shape","id":"sh/lkfml0f2","slide":5,"bbox":[800,0,0,1080]}
+{"kind":"shape","id":"sh/mlone5wn","slide":5,"bbox":[960,0,0,1080]}
+{"kind":"shape","id":"sh/nmx4nax8","slide":5,"bbox":[1120,0,0,1080]}
+{"kind":"shape","id":"sh/j614jqd8","slide":5,"bbox":[1280,0,0,1080]}
+{"kind":"shape","id":"sh/i5snqlwn","slide":5,"bbox":[1440,0,0,1080]}
+{"kind":"shape","id":"sh/583ml0ve","slide":5,"bbox":[1600,0,0,1080]}
+{"kind":"shape","id":"sh/47a5svet","slide":5,"bbox":[1760,0,0,1080]}
+{"kind":"shape","id":"sh/v214fqdc","slide":5,"bbox":[0,160,1920,0]}
+{"kind":"shape","id":"sh/uhsnmlwr","slide":5,"bbox":[0,320,1920,0]}
+{"kind":"shape","id":"sh/h4jmh0v2","slide":5,"bbox":[0,480,1920,0]}
+{"kind":"shape","id":"sh/w3a5oveh","slide":5,"bbox":[0,640,1920,0]}
+{"kind":"shape","id":"sh/fyl4radg","slide":5,"bbox":[0,800,1920,0]}
+{"kind":"shape","id":"sh/edcnypwv","slide":5,"bbox":[0,960,1920,0]}
+{"kind":"textbox","id":"sh/a50z6dkf","slide":5,"text":"Demand Delivery","textPreview":"Demand Delivery","textChars":15,"textLines":1,"bbox":[104,76,620,34]}
+{"kind":"textbox","id":"sh/b69gfi10","slide":5,"text":"Four markets for the same hidden expertise","textPreview":"Four markets for the same hidden expertise","textChars":42,"textLines":1,"bbox":[104,122,1520,158]}
+{"kind":"shape","id":"sh/c7ih8n2l","slide":5,"bbox":[104,304,396,496]}
+{"kind":"shape","id":"sh/x8ryhsjq","slide":5,"bbox":[104,304,396,6]}
+{"kind":"textbox","id":"sh/y90zadkb","slide":5,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[134,340,80,34]}
+{"kind":"textbox","id":"sh/za9gji1w","slide":5,"text":"Content","textPreview":"Content","textChars":7,"textLines":1,"bbox":[134,416,320,92]}
+{"kind":"textbox","id":"sh/kbihcn2h","slide":5,"text":"Xiaohongshu\nTikTok","textPreview":"Xiaohongshu | TikTok","textChars":18,"textLines":2,"bbox":[134,550,320,82]}
+{"kind":"textbox","id":"sh/lcbylsj2","slide":5,"text":"scripts, posts, before-after stories","textPreview":"scripts, posts, before-after stories","textChars":36,"textLines":1,"bbox":[134,692,320,86]}
+{"kind":"shape","id":"sh/edgfytk7","slide":5,"bbox":[526,304,396,496]}
+{"kind":"shape","id":"sh/fepg7y1s","slide":5,"bbox":[526,304,396,6]}
+{"kind":"textbox","id":"sh/h8v2dw3a","slide":5,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[556,340,80,34]}
+{"kind":"textbox","id":"sh/g7m1krmp","slide":5,"text":"Products","textPreview":"Products","textChars":8,"textLines":1,"bbox":[556,416,320,92]}
+{"kind":"textbox","id":"sh/v6dkbml4","slide":5,"text":"Taobao\nEtsy / Shopify","textPreview":"Taobao | Etsy / Shopify","textChars":21,"textLines":2,"bbox":[556,550,320,82]}
+{"kind":"textbox","id":"sh/u54jih4j","slide":5,"text":"templates, recipes, labels, kits","textPreview":"templates, recipes, labels, kits","textChars":32,"textLines":1,"bbox":[556,692,320,86]}
+{"kind":"shape","id":"sh/5wf2hg36","slide":5,"bbox":[948,304,396,496]}
+{"kind":"shape","id":"sh/4v618bml","slide":5,"bbox":[948,304,396,6]}
+{"kind":"textbox","id":"sh/3udkf6lg","slide":5,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[978,340,80,34]}
+{"kind":"textbox","id":"sh/it4j614v","slide":5,"text":"Offline Service","textPreview":"Offline Service","textChars":15,"textLines":1,"bbox":[978,416,320,92]}
+{"kind":"textbox","id":"sh/l0bi5c32","slide":5,"text":"local parents\ncommunity groups","textPreview":"local parents | community groups","textChars":30,"textLines":2,"bbox":[978,550,320,82]}
+{"kind":"textbox","id":"sh/kz21c7mh","slide":5,"text":"kitchen reset, meal prep, care planning","textPreview":"kitchen reset, meal prep, care planning","textChars":39,"textLines":1,"bbox":[978,692,320,86]}
+{"kind":"shape","id":"sh/ova5kf65","slide":5,"bbox":[1370,304,396,496]}
+{"kind":"shape","id":"sh/pwjmdknq","slide":5,"bbox":[1370,304,396,6]}
+{"kind":"textbox","id":"sh/2t8ni5oz","slide":5,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1400,340,80,34]}
+{"kind":"textbox","id":"sh/nuh4ba5k","slide":5,"text":"Knowledge Service","textPreview":"Knowledge Service","textChars":17,"textLines":1,"bbox":[1400,416,320,92]}
+{"kind":"textbox","id":"sh/0rq5gf6t","slide":5,"text":"workshops\nconsults","textPreview":"workshops | consults","textChars":18,"textLines":2,"bbox":[1400,550,320,82]}
+{"kind":"textbox","id":"sh/1szm90ne","slide":5,"text":"courses, family systems coaching","textPreview":"courses, family systems coaching","textChars":32,"textLines":1,"bbox":[1400,692,320,86]}
+{"kind":"shape","id":"sh/ep83e5o3","slide":5,"bbox":[104,850,1712,82]}
+{"kind":"textbox","id":"sh/fqh47a5o","slide":5,"text":"Same identity passport, different income paths.","textPreview":"Same identity passport, different income paths.","textChars":47,"textLines":1,"bbox":[140,870,1640,42]}
+{"kind":"shape","id":"sh/snqlcv6x","slide":5,"bbox":[104,994,1712,0]}
+{"kind":"textbox","id":"sh/dozm50ni","slide":5,"text":"Market routing","textPreview":"Market routing","textChars":14,"textLines":1,"bbox":[104,1012,760,28]}
+{"kind":"textbox","id":"sh/vyxofqp4","slide":5,"text":"3:05-4:10 / 05","textPreview":"3:05-4:10 / 05","textChars":14,"textLines":1,"bbox":[1280,1012,536,28]}
+{"kind":"notes","id":"nt/a8bfwk","slide":5,"text":"Market routing: one identity passport can support content, products, offline services, and knowledge services.\n[Sources] README.md; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/dly0vz","slide":6,"title":"Comparison","textShapes":21}
+{"kind":"shape","id":"sh/lc7ip4bq","slide":6,"bbox":[0,0,680,1080]}
+{"kind":"shape","id":"sh/y9gzu9sf","slide":6,"bbox":[1420,0,500,1080]}
+{"kind":"shape","id":"sh/zap0net0","slide":6,"bbox":[160,0,0,1080]}
+{"kind":"shape","id":"sh/8zi10jah","slide":6,"bbox":[320,0,0,1080]}
+{"kind":"shape","id":"sh/90ritob2","slide":6,"bbox":[480,0,0,1080]}
+{"kind":"shape","id":"sh/mdgjy9sb","slide":6,"bbox":[640,0,0,1080]}
+{"kind":"shape","id":"sh/7e90retw","slide":6,"bbox":[800,0,0,1080]}
+{"kind":"shape","id":"sh/w3i143ad","slide":6,"bbox":[960,0,0,1080]}
+{"kind":"shape","id":"sh/h4rix8by","slide":6,"bbox":[1120,0,0,1080]}
+{"kind":"shape","id":"sh/lsved4by","slide":6,"bbox":[1280,0,0,1080]}
+{"kind":"shape","id":"sh/krmxkzad","slide":6,"bbox":[1440,0,0,1080]}
+{"kind":"shape","id":"sh/zqdwbuts","slide":6,"bbox":[1600,0,0,1080]}
+{"kind":"shape","id":"sh/yp4fipsn","slide":6,"bbox":[1760,0,0,1080]}
+{"kind":"shape","id":"sh/9gfyh4ba","slide":6,"bbox":[0,160,1920,0]}
+{"kind":"shape","id":"sh/8vmxozap","slide":6,"bbox":[0,320,1920,0]}
+{"kind":"shape","id":"sh/7udwfet4","slide":6,"bbox":[0,480,1920,0]}
+{"kind":"shape","id":"sh/mt4fm9sj","slide":6,"bbox":[0,640,1920,0]}
+{"kind":"shape","id":"sh/p0be5kbq","slide":6,"bbox":[0,800,1920,0]}
+{"kind":"shape","id":"sh/oz2xcfa5","slide":6,"bbox":[0,960,1920,0]}
+{"kind":"textbox","id":"sh/g36xsfi1","slide":6,"text":"Comparison","textPreview":"Comparison","textChars":10,"textLines":1,"bbox":[104,76,620,34]}
+{"kind":"textbox","id":"sh/14felkjm","slide":6,"text":"Industries already monetize uniqueness","textPreview":"Industries already monetize uniqueness","textChars":38,"textLines":1,"bbox":[104,122,1520,158]}
+{"kind":"shape","id":"sh/e14fq50b","slide":6,"bbox":[104,285,420,74]}
+{"kind":"textbox","id":"sh/f2xwja1g","slide":6,"text":"Labor Identity","textPreview":"Labor Identity","textChars":14,"textLines":1,"bbox":[122,303,384,50]}
+{"kind":"shape","id":"sh/o76xwzid","slide":6,"bbox":[524,285,520,74]}
+{"kind":"textbox","id":"sh/p8fyp4jy","slide":6,"text":"Distinctiveness","textPreview":"Distinctiveness","textChars":15,"textLines":1,"bbox":[542,303,484,50]}
+{"kind":"shape","id":"sh/25ofup07","slide":6,"bbox":[1044,285,320,74]}
+{"kind":"textbox","id":"sh/36xgnu1s","slide":6,"text":"Example","textPreview":"Example","textChars":7,"textLines":1,"bbox":[1062,303,284,50]}
+{"kind":"shape","id":"sh/cbqx0zi9","slide":6,"bbox":[1364,285,452,74]}
+{"kind":"textbox","id":"sh/dwzyt4ju","slide":6,"text":"Digital Tool -> Value","textPreview":"Digital Tool -> Value","textChars":21,"textLines":1,"bbox":[1382,303,416,50]}
+{"kind":"shape","id":"sh/nq10zylw","slide":6,"bbox":[104,359,420,156]}
+{"kind":"textbox","id":"sh/m5szqtkr","slide":6,"text":"Virtual-world designer","textPreview":"Virtual-world designer","textChars":22,"textLines":1,"bbox":[122,377,384,132]}
+{"kind":"shape","id":"sh/9sji1832","slide":6,"bbox":[524,359,520,156]}
+{"kind":"textbox","id":"sh/8rahs32h","slide":6,"text":"spatial intuition + worldbuilding","textPreview":"spatial intuition + worldbuilding","textChars":33,"textLines":1,"bbox":[542,377,484,132]}
+{"kind":"shape","id":"sh/z210vyl0","slide":6,"bbox":[1044,359,320,156]}
+{"kind":"textbox","id":"sh/y1szmtkf","slide":6,"text":"Roblox maps","textPreview":"Roblox maps","textChars":11,"textLines":1,"bbox":[1062,377,284,132]}
+{"kind":"shape","id":"sh/l4jixo36","slide":6,"bbox":[1364,359,452,156]}
+{"kind":"textbox","id":"sh/03aho32l","slide":6,"text":"game engines + AI -> creator revenue","textPreview":"game engines + AI -> creator revenue","textChars":36,"textLines":1,"bbox":[1382,377,416,132]}
+{"kind":"shape","id":"sh/jyl07il4","slide":6,"bbox":[104,515,420,156]}
+{"kind":"textbox","id":"sh/ixcjydkj","slide":6,"text":"Knowledge coach","textPreview":"Knowledge coach","textChars":15,"textLines":1,"bbox":[122,533,384,132]}
+{"kind":"shape","id":"sh/q5s3mhg3","slide":6,"bbox":[524,515,520,156]}
+{"kind":"textbox","id":"sh/r614vmho","slide":6,"text":"empathy + explanation style","textPreview":"empathy + explanation style","textChars":27,"textLines":1,"bbox":[542,533,484,132]}
+{"kind":"shape","id":"sh/s7uloryt","slide":6,"bbox":[1044,515,320,156]}
+{"kind":"textbox","id":"sh/d83mxwze","slide":6,"text":"bilingual tutor","textPreview":"bilingual tutor","textChars":15,"textLines":1,"bbox":[1062,533,284,132]}
+{"kind":"shape","id":"sh/ihs3ixgr","slide":6,"bbox":[1364,515,452,156]}
+{"kind":"textbox","id":"sh/3214r2hc","slide":6,"text":"AI lesson plans -> workshops","textPreview":"AI lesson plans -> workshops","textChars":28,"textLines":1,"bbox":[1382,533,416,132]}
+{"kind":"shape","id":"sh/43alk7yx","slide":6,"bbox":[104,671,420,156]}
+{"kind":"textbox","id":"sh/54jmtczi","slide":6,"text":"Homemaker / IDBLOOM","textPreview":"Homemaker / IDBLOOM","textChars":19,"textLines":1,"bbox":[122,689,384,132]}
+{"kind":"shape","id":"sh/2dcnu1gb","slide":6,"bbox":[524,671,520,156]}
+{"kind":"textbox","id":"sh/nyl436hg","slide":6,"text":"routine design + care + taste","textPreview":"routine design + care + taste","textChars":29,"textLines":1,"bbox":[542,689,484,132]}
+{"kind":"shape","id":"sh/x4ry9kna","slide":6,"bbox":[1044,671,320,156]}
+{"kind":"textbox","id":"sh/w3yxgzmp","slide":6,"text":"Mrs. Chan","textPreview":"Mrs. Chan","textChars":9,"textLines":1,"bbox":[1062,689,284,132]}
+{"kind":"shape","id":"sh/bipg7u54","slide":6,"bbox":[1364,671,452,156]}
+{"kind":"textbox","id":"sh/ahgfep4j","slide":6,"text":"AI identity engine -> local services","textPreview":"AI identity engine -> local services","textChars":36,"textLines":1,"bbox":[1382,689,416,132]}
+{"kind":"shape","id":"sh/9g7y5kny","slide":6,"bbox":[104,860,930,72]}
+{"kind":"textbox","id":"sh/ofyxcfmd","slide":6,"text":"The missing tool is not labor matching. It is identity translation.","textPreview":"The missing tool is not labor matching. It is identity translation.","textChars":67,"textLines":1,"bbox":[134,878,870,36]}
+{"kind":"shape","id":"sh/nepg3a5s","slide":6,"bbox":[104,994,1712,0]}
+{"kind":"textbox","id":"sh/mdgfa54n","slide":6,"text":"Why this is timely","textPreview":"Why this is timely","textChars":18,"textLines":1,"bbox":[104,1012,760,28]}
+{"kind":"textbox","id":"sh/tcbyhon2","slide":6,"text":"4:10-5:00 / 06","textPreview":"4:10-5:00 / 06","textChars":14,"textLines":1,"bbox":[1280,1012,536,28]}
+{"kind":"notes","id":"nt/dly0vz","slide":6,"text":"Comparison: other fields already monetize personal uniqueness; homemakers need identity translation.\n[Sources] README.md; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/u7p43y","slide":7,"title":"Model + Trust","textShapes":18}
+{"kind":"shape","id":"sh/yl47218z","slide":7,"bbox":[0,0,680,1080]}
+{"kind":"shape","id":"sh/lofqxg7a","slide":7,"bbox":[1420,0,500,1080]}
+{"kind":"shape","id":"sh/0n6p4bq5","slide":7,"bbox":[160,0,0,1080]}
+{"kind":"shape","id":"sh/bidor6p8","slide":7,"bbox":[320,0,0,1080]}
+{"kind":"shape","id":"sh/qh47y18n","slide":7,"bbox":[480,0,0,1080]}
+{"kind":"shape","id":"sh/dkv6tw7e","slide":7,"bbox":[640,0,0,1080]}
+{"kind":"shape","id":"sh/cjmp0bqt","slide":7,"bbox":[800,0,0,1080]}
+{"kind":"shape","id":"sh/3edonmpc","slide":7,"bbox":[960,0,0,1080]}
+{"kind":"shape","id":"sh/2dk7uh8r","slide":7,"bbox":[1120,0,0,1080]}
+{"kind":"shape","id":"sh/sjihc7m1","slide":7,"bbox":[1280,0,0,1080]}
+{"kind":"shape","id":"sh/tkri5cn6","slide":7,"bbox":[1440,0,0,1080]}
+{"kind":"shape","id":"sh/6hgzah4v","slide":7,"bbox":[1600,0,0,1080]}
+{"kind":"shape","id":"sh/ri903m5g","slide":7,"bbox":[1760,0,0,1080]}
+{"kind":"shape","id":"sh/4fyh87mp","slide":7,"bbox":[0,160,1920,0]}
+{"kind":"shape","id":"sh/5g7i1cna","slide":7,"bbox":[0,320,1920,0]}
+{"kind":"shape","id":"sh/idgz6x4j","slide":7,"bbox":[0,480,1920,0]}
+{"kind":"shape","id":"sh/jepgz254","slide":7,"bbox":[0,640,1920,0]}
+{"kind":"shape","id":"sh/ob2hkbm9","slide":7,"bbox":[0,800,1920,0]}
+{"kind":"shape","id":"sh/pcbidwne","slide":7,"bbox":[0,960,1920,0]}
+{"kind":"textbox","id":"sh/x87ixwfi","slide":7,"text":"Model + Trust","textPreview":"Model + Trust","textChars":13,"textLines":1,"bbox":[104,76,620,34]}
+{"kind":"textbox","id":"sh/c7yh4red","slide":7,"text":"The model works only if trust is designed in","textPreview":"The model works only if trust is designed in","textChars":44,"textLines":1,"bbox":[104,122,1520,158]}
+{"kind":"shape","id":"sh/b6p0vmxs","slide":7,"bbox":[104,310,400,260]}
+{"kind":"textbox","id":"sh/a5gz21w7","slide":7,"text":"User value","textPreview":"User value","textChars":10,"textLines":1,"bbox":[132,344,334,44]}
+{"kind":"textbox","id":"sh/p4nitwfm","slide":7,"text":"identity, income, confidence","textPreview":"identity, income, confidence","textChars":28,"textLines":1,"bbox":[132,424,326,90]}
+{"kind":"shape","id":"sh/o3eh0re1","slide":7,"bbox":[528,310,400,260]}
+{"kind":"textbox","id":"sh/n25grmxg","slide":7,"text":"Platform revenue","textPreview":"Platform revenue","textChars":16,"textLines":1,"bbox":[556,344,334,44]}
+{"kind":"textbox","id":"sh/21wzyhwv","slide":7,"text":"10-15% commission, premium exports, certificates","textPreview":"10-15% commission, premium exports, certificates","textChars":48,"textLines":1,"bbox":[556,424,326,90]}
+{"kind":"shape","id":"sh/10nypcfq","slide":7,"bbox":[952,310,400,260]}
+{"kind":"textbox","id":"sh/0zehw7e5","slide":7,"text":"Validation KPI","textPreview":"Validation KPI","textChars":14,"textLines":1,"bbox":[980,344,334,44]}
+{"kind":"shape","id":"sh/q5cfqdcn","slide":7,"bbox":[1376,310,400,260]}
+{"kind":"textbox","id":"sh/r6lwzid8","slide":7,"text":"Safeguards","textPreview":"Safeguards","textChars":10,"textLines":1,"bbox":[1404,344,334,44]}
+{"kind":"textbox","id":"sh/s7uxsnut","slide":7,"text":"consent, privacy, user confirmation, quality loop","textPreview":"consent, privacy, user confirmation, quality loop","textChars":49,"textLines":1,"bbox":[1404,424,326,90]}
+{"kind":"textbox","id":"sh/d83e1sve","slide":7,"text":"booking rate","textPreview":"booking rate","textChars":12,"textLines":1,"bbox":[980,414,150,30]}
+{"kind":"shape","id":"sh/ihsf2dcr","slide":7,"bbox":[1144,422,150,12]}
+{"kind":"shape","id":"sh/3i1wvidc","slide":7,"bbox":[1144,422,108,12]}
+{"kind":"textbox","id":"sh/4jax43ux","slide":7,"text":"self-worth","textPreview":"self-worth","textChars":10,"textLines":1,"bbox":[980,466,150,30]}
+{"kind":"shape","id":"sh/54jex8vi","slide":7,"bbox":[1144,474,150,12]}
+{"kind":"shape","id":"sh/ud8vytcv","slide":7,"bbox":[1144,474,126,12]}
+{"kind":"textbox","id":"sh/ve1wryd0","slide":7,"text":"willingness","textPreview":"willingness","textChars":11,"textLines":1,"bbox":[980,518,150,30]}
+{"kind":"shape","id":"sh/761s3uhw","slide":7,"bbox":[1144,526,150,12]}
+{"kind":"shape","id":"sh/m5sbu9gb","slide":7,"bbox":[1144,526,96,12]}
+{"kind":"shape","id":"sh/9s3a54z2","slide":7,"bbox":[104,655,826,190]}
+{"kind":"textbox","id":"sh/8rutwzyh","slide":7,"text":"Privacy first","textPreview":"Privacy first","textChars":13,"textLines":1,"bbox":[138,686,360,44]}
+{"kind":"textbox","id":"sh/z21szuh0","slide":7,"text":"Authorized inputs only. User confirms before anything is published.","textPreview":"Authorized inputs only. User confirms before anything is published.","textChars":67,"textLines":1,"bbox":[138,754,720,58]}
+{"kind":"shape","id":"sh/y1sbqpgf","slide":7,"bbox":[962,655,826,190]}
+{"kind":"textbox","id":"sh/l4ja14zq","slide":7,"text":"Quality standard","textPreview":"Quality standard","textChars":16,"textLines":1,"bbox":[996,686,360,44]}
+{"kind":"textbox","id":"sh/k3atszy5","slide":7,"text":"Before-after evidence, ratings, and basic safety guidance protect buyers and users.","textPreview":"Before-after evidence, ratings, and basic safety guidance protect buyers and users.","textChars":83,"textLines":1,"bbox":[996,754,720,58]}
+{"kind":"shape","id":"sh/byhsvaho","slide":7,"bbox":[104,994,1712,0]}
+{"kind":"textbox","id":"sh/ax8bmpg3","slide":7,"text":"Business model + ethics","textPreview":"Business model + ethics","textChars":23,"textLines":1,"bbox":[104,1012,760,28]}
+{"kind":"textbox","id":"sh/grmhgrap","slide":7,"text":"5:00-5:55 / 07","textPreview":"5:00-5:55 / 07","textChars":14,"textLines":1,"bbox":[1280,1012,536,28]}
+{"kind":"notes","id":"nt/u7p43y","slide":7,"text":"Model and trust: user value, platform revenue, validation KPIs, and privacy safeguards.\n[Sources] README.md; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/v4x8ax","slide":8,"title":"Closing","textShapes":21}
+{"kind":"shape","id":"sh/3upg329k","slide":8,"bbox":[0,0,680,1080]}
+{"kind":"shape","id":"sh/4vyhwna5","slide":8,"bbox":[1420,0,500,1080]}
+{"kind":"shape","id":"sh/pw7y5srq","slide":8,"bbox":[160,0,0,1080]}
+{"kind":"shape","id":"sh/u5wzqds3","slide":8,"bbox":[320,0,0,1080]}
+{"kind":"shape","id":"sh/vq5gzi9o","slide":8,"bbox":[480,0,0,1080]}
+{"kind":"shape","id":"sh/grehsna9","slide":8,"bbox":[640,0,0,1080]}
+{"kind":"shape","id":"sh/hsny1sru","slide":8,"bbox":[800,0,0,1080]}
+{"kind":"shape","id":"sh/61wfmds7","slide":8,"bbox":[960,0,0,1080]}
+{"kind":"shape","id":"sh/725gvy9c","slide":8,"bbox":[1120,0,0,1080]}
+{"kind":"shape","id":"sh/ji14zq50","slide":8,"bbox":[1280,0,0,1080]}
+{"kind":"shape","id":"sh/ihsn6lof","slide":8,"bbox":[1440,0,0,1080]}
+{"kind":"shape","id":"sh/5kjm10nq","slide":8,"bbox":[1600,0,0,1080]}
+{"kind":"shape","id":"sh/4ja58v65","slide":8,"bbox":[1760,0,0,1080]}
+{"kind":"shape","id":"sh/rm143a5w","slide":8,"bbox":[0,160,1920,0]}
+{"kind":"shape","id":"sh/6lsna5ob","slide":8,"bbox":[0,320,1920,0]}
+{"kind":"shape","id":"sh/to3m50n2","slide":8,"bbox":[0,480,1920,0]}
+{"kind":"shape","id":"sh/snu5cf6h","slide":8,"bbox":[0,640,1920,0]}
+{"kind":"shape","id":"sh/7qh4r65s","slide":8,"bbox":[0,800,1920,0]}
+{"kind":"shape","id":"sh/mp83y1o7","slide":8,"bbox":[0,960,1920,0]}
+{"kind":"textbox","id":"sh/ahgzmdcr","slide":8,"text":"Closing","textPreview":"Closing","textChars":7,"textLines":1,"bbox":[104,150,360,34]}
+{"kind":"textbox","id":"sh/bipgvitc","slide":8,"text":"Hidden labor -> recognized opportunity","textPreview":"Hidden labor -> recognized opportunity","textChars":38,"textLines":1,"bbox":[104,196,780,160]}
+{"kind":"textbox","id":"sh/cjyhonux","slide":8,"text":"AI should not only replace labor. It should reveal the value society has failed to see.","textPreview":"AI should not only replace labor. It should reveal the value society has failed to see.","textChars":87,"textLines":1,"bbox":[104,438,780,230]}
+{"kind":"textbox","id":"sh/xkryx8bi","slide":8,"text":"IDBLOOM: idbloom.tobysneko.com","textPreview":"IDBLOOM: idbloom.tobysneko.com","textChars":30,"textLines":1,"bbox":[104,720,740,44]}
+{"kind":"shape","id":"sh/2tgzitcv","slide":8,"bbox":[970,214,820,630]}
+{"kind":"shape","id":"sh/nupgrytg","slide":8,"bbox":[970,214,820,76]}
+{"kind":"shape","id":"sh/ovyhk3u1","slide":8,"bbox":[1002,238,18,18]}
+{"kind":"shape","id":"sh/pw7yt8bm","slide":8,"bbox":[1030,238,18,18]}
+{"kind":"shape","id":"sh/epwfetcz","slide":8,"bbox":[1058,238,18,18]}
+{"kind":"textbox","id":"sh/fq5gnyt4","slide":8,"text":"Demand Delivery Output","textPreview":"Demand Delivery Output","textChars":22,"textLines":1,"bbox":[1110,234,420,34]}
+{"kind":"shape","id":"sh/hkv2twvm","slide":8,"bbox":[1550,230,190,40]}
+{"kind":"textbox","id":"sh/gjm1kreh","slide":8,"text":"MATCH READY","textPreview":"MATCH READY","textChars":11,"textLines":1,"bbox":[1570,238,150,22]}
+{"kind":"shape","id":"sh/vitkrmdw","slide":8,"bbox":[1006,326,318,458]}
+{"kind":"textbox","id":"sh/uhkjihwb","slide":8,"text":"Mrs. Chan","textPreview":"Mrs. Chan","textChars":9,"textLines":1,"bbox":[1034,356,260,36]}
+{"kind":"textbox","id":"sh/tgb2pcvq","slide":8,"text":"Household Operations Specialist","textPreview":"Household Operations Specialist","textChars":31,"textLines":1,"bbox":[1034,402,250,52]}
+{"kind":"shape","id":"sh/8f21g7e5","slide":8,"bbox":[1034,486,230,52]}
+{"kind":"textbox","id":"sh/7etknmdk","slide":8,"text":"Space Planning","textPreview":"Space Planning","textChars":14,"textLines":1,"bbox":[1050,497,198,36]}
+{"kind":"shape","id":"sh/6dkjehwz","slide":8,"bbox":[1034,552,230,52]}
+{"kind":"textbox","id":"sh/lcbilcvu","slide":8,"text":"Care Workflow","textPreview":"Care Workflow","textChars":13,"textLines":1,"bbox":[1050,563,198,36]}
+{"kind":"shape","id":"sh/kb21c7e9","slide":8,"bbox":[1034,618,230,52]}
+{"kind":"textbox","id":"sh/03a1c7at","slide":8,"text":"Kitchen Reset","textPreview":"Kitchen Reset","textChars":13,"textLines":1,"bbox":[1050,629,198,36]}
+{"kind":"textbox","id":"sh/l4ji5cre","slide":8,"text":"Evidence: before-after storage system + family routine improvement","textPreview":"Evidence: before-after storage system + family routine improvement","textChars":66,"textLines":1,"bbox":[1034,704,240,58]}
+{"kind":"shape","id":"sh/yhsjahs3","slide":8,"bbox":[1358,326,386,214]}
+{"kind":"textbox","id":"sh/zi103m98","slide":8,"text":"Local Demand","textPreview":"Local Demand","textChars":12,"textLines":1,"bbox":[1386,358,240,34]}
+{"kind":"textbox","id":"sh/87a10ra5","slide":8,"text":"2-hour Small Kitchen Reset","textPreview":"2-hour Small Kitchen Reset","textChars":26,"textLines":1,"bbox":[1386,414,300,44]}
+{"kind":"textbox","id":"sh/98j29wrq","slide":8,"text":"HKD 450","textPreview":"HKD 450","textChars":7,"textLines":1,"bbox":[1386,478,200,44]}
+{"kind":"shape","id":"sh/m5sjyhsz","slide":8,"bbox":[1358,572,386,96]}
+{"kind":"textbox","id":"sh/n61k7m9k","slide":8,"text":"Route","textPreview":"Route","textChars":5,"textLines":1,"bbox":[1386,590,100,28]}
+{"kind":"textbox","id":"sh/4bq14nal","slide":8,"text":"community groups -> local booking","textPreview":"community groups -> local booking","textChars":33,"textLines":1,"bbox":[1490,590,220,52]}
+{"kind":"shape","id":"sh/pczixsr6","slide":8,"bbox":[1358,694,386,90]}
+{"kind":"textbox","id":"sh/ripcjux0","slide":8,"text":"Next action","textPreview":"Next action","textChars":11,"textLines":1,"bbox":[1386,712,160,28]}
+{"kind":"textbox","id":"sh/6hgvqpgf","slide":8,"text":"confirm availability and publish","textPreview":"confirm availability and publish","textChars":32,"textLines":1,"bbox":[1548,712,160,52]}
+{"kind":"shape","id":"sh/t47ul4f6","slide":8,"bbox":[104,994,1712,0]}
+{"kind":"textbox","id":"sh/sjydszyl","slide":8,"text":"IDBLOOM / final message","textPreview":"IDBLOOM / final message","textChars":23,"textLines":1,"bbox":[104,1012,760,28]}
+{"kind":"textbox","id":"sh/jepcfux4","slide":8,"text":"5:55-6:30 / 08","textPreview":"5:55-6:30 / 08","textChars":14,"textLines":1,"bbox":[1280,1012,536,28]}
+{"kind":"notes","id":"nt/v4x8ax","slide":8,"text":"Closing claim: AI should reveal hidden labor value, not only replace labor.\n[Sources] README.md; presentation/assets/idbloom-demand-output.png; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/mdkug4","slide":9,"title":"AI Tool Acknowledgement & Usage Transparency","textShapes":13}
+{"kind":"shape","id":"sh/gb290rel","slide":9,"bbox":[0,0,680,1080]}
+{"kind":"shape","id":"sh/fat8rmd0","slide":9,"bbox":[1420,0,500,1080]}
+{"kind":"shape","id":"sh/u9k7yhwv","slide":9,"bbox":[160,0,0,1080]}
+{"kind":"shape","id":"sh/t8rqpcva","slide":9,"bbox":[320,0,0,1080]}
+{"kind":"shape","id":"sh/s7ipwrep","slide":9,"bbox":[480,0,0,1080]}
+{"kind":"shape","id":"sh/7698nmd4","slide":9,"bbox":[640,0,0,1080]}
+{"kind":"shape","id":"sh/6507uhwj","slide":9,"bbox":[800,0,0,1080]}
+{"kind":"shape","id":"sh/54rqlcvy","slide":9,"bbox":[960,0,0,1080]}
+{"kind":"shape","id":"sh/k3ips7ed","slide":9,"bbox":[1120,0,0,1080]}
+{"kind":"shape","id":"sh/uxgf2psr","slide":9,"bbox":[1280,0,0,1080]}
+{"kind":"shape","id":"sh/fypgvutc","slide":9,"bbox":[1440,0,0,1080]}
+{"kind":"shape","id":"sh/gzyx4fax","slide":9,"bbox":[1600,0,0,1080]}
+{"kind":"shape","id":"sh/h0ryxkbi","slide":9,"bbox":[1760,0,0,1080]}
+{"kind":"shape","id":"sh/6tgfy5sv","slide":9,"bbox":[0,160,1920,0]}
+{"kind":"shape","id":"sh/7upgratg","slide":9,"bbox":[0,320,1920,0]}
+{"kind":"shape","id":"sh/svyx0fa1","slide":9,"bbox":[0,480,1920,0]}
+{"kind":"shape","id":"sh/tw7ytkbm","slide":9,"bbox":[0,640,1920,0]}
+{"kind":"shape","id":"sh/i5wfu5sz","slide":9,"bbox":[0,800,1920,0]}
+{"kind":"shape","id":"sh/j65wnat4","slide":9,"bbox":[0,960,1920,0]}
+{"kind":"shape","id":"sh/ny14f250","slide":9,"bbox":[84,58,0,964]}
+{"kind":"textbox","id":"sh/2xs36x4f","slide":9,"text":"AI Tool Acknowledgement & Usage Transparency","textPreview":"AI Tool Acknowledgement & Usage Transparency","textChars":44,"textLines":1,"bbox":[158,50,1320,54]}
+{"kind":"textbox","id":"sh/p0jmhcnq","slide":9,"text":"In accordance with competition guidelines, AI tools were utilized solely as supporting mechanisms under strict student guidance, supervision, and iterative adaptation:","textPreview":"In accordance with competition guidelines, AI tools were utilized solely as supporting mechanisms under strict student guidance, supervis...","textChars":167,"textLines":1,"bbox":[158,116,1550,108]}
+{"kind":"textbox","id":"sh/ozal87m5","slide":9,"text":"AI Tool / Platform","textPreview":"AI Tool / Platform","textChars":18,"textLines":1,"bbox":[158,260,470,92]}
+{"kind":"shape","id":"sh/bm14jm5w","slide":9,"bbox":[158,370,470,0]}
+{"kind":"textbox","id":"sh/a1s3ah4b","slide":9,"text":"Role & Scope of Involvement","textPreview":"Role & Scope of Involvement","textChars":27,"textLines":1,"bbox":[680,260,500,92]}
+{"kind":"shape","id":"sh/xo3mlcn2","slide":9,"bbox":[680,370,500,0]}
+{"kind":"textbox","id":"sh/cnalc7mh","slide":9,"text":"Student Input & Adaptation\n(Core Content)","textPreview":"Student Input & Adaptation | (Core Content)","textChars":41,"textLines":2,"bbox":[1232,260,590,92]}
+{"kind":"shape","id":"sh/rqhk7i5s","slide":9,"bbox":[1232,370,590,0]}
+{"kind":"textbox","id":"sh/q583yd47","slide":9,"text":"LLM (ChatGPT / Coze)","textPreview":"LLM (ChatGPT / Coze)","textChars":20,"textLines":1,"bbox":[158,408,470,210]}
+{"kind":"shape","id":"sh/gbm18j25","slide":9,"bbox":[158,643,470,0]}
+{"kind":"textbox","id":"sh/hwviho3a","slide":9,"text":"Concept brainstorming, grammar refinement, and initial prompt testing for the MVP Bot.","textPreview":"Concept brainstorming, grammar refinement, and initial prompt testing for the MVP Bot.","textChars":86,"textLines":1,"bbox":[680,408,500,210]}
+{"kind":"shape","id":"sh/u94j69kz","slide":9,"bbox":[680,643,500,0]}
+{"kind":"textbox","id":"sh/vad0felk","slide":9,"text":"100% Student-Driven: Core research canvas, industry matrix analysis, identity business model, and strategic narrative were conceptualized and authored by students.","textPreview":"100% Student-Driven: Core research canvas, industry matrix analysis, identity business model, and strategic narrative were conceptualized...","textChars":163,"textLines":1,"bbox":[1232,408,590,210]}
+{"kind":"shape","id":"sh/87m14j2t","slide":9,"bbox":[1232,643,590,0]}
+{"kind":"textbox","id":"sh/t8vid43e","slide":9,"text":"UI / Code Generation\n(Codex / Figma)","textPreview":"UI / Code Generation | (Codex / Figma)","textChars":36,"textLines":2,"bbox":[158,678,470,260]}
+{"kind":"shape","id":"sh/65kz294n","slide":9,"bbox":[158,964,470,0]}
+{"kind":"textbox","id":"sh/76d0bel8","slide":9,"text":"Layout formatting and HTML/CSS template structure for PDF export.","textPreview":"Layout formatting and HTML/CSS template structure for PDF export.","textChars":65,"textLines":1,"bbox":[680,678,500,260]}
+{"kind":"shape","id":"sh/s361g32x","slide":9,"bbox":[680,964,500,0]}
+{"kind":"textbox","id":"sh/d4fi983i","slide":9,"text":"100% Student-Designed: Prototype workflow, Mrs. Chan's daily case scenario, pricing logic, and UI design decisions were defined and validated by the team.","textPreview":"100% Student-Designed: Prototype workflow, Mrs. Chan's daily case scenario, pricing logic, and UI design decisions were defined and valid...","textChars":154,"textLines":1,"bbox":[1232,678,590,260]}
+{"kind":"shape","id":"sh/98ry10ja","slide":9,"bbox":[1232,964,590,0]}
+{"kind":"shape","id":"sh/o7ix8v2p","slide":9,"bbox":[104,994,1712,0]}
+{"kind":"textbox","id":"sh/nmpgzq14","slide":9,"text":"Competition transparency","textPreview":"Competition transparency","textChars":24,"textLines":1,"bbox":[104,1012,760,28]}
+{"kind":"textbox","id":"sh/2lgf6lkj","slide":9,"text":"6:30-7:00 / 09","textPreview":"6:30-7:00 / 09","textChars":14,"textLines":1,"bbox":[1280,1012,536,28]}
+{"kind":"notes","id":"nt/mdkug4","slide":9,"text":"AI acknowledgement: transparency page based on competition requirement and team AI usage statement.\n[Sources] README.md; user-provided acknowledgement reference image; IDBLOOM_frontend_slides.html."}

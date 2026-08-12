@@ -1,0 +1,374 @@
+{"kind":"deck","id":"pr/dot2jl","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"subtitle","type":"subtitle","textPreview":"Click to edit Master subtitle style"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Title and Content","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"Section Header","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"Two Content","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"Comparison","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 5","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"Title Only","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"Blank","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"Content with Caption","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"Picture with Caption","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"Title and Vertical Text","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"Vertical Title and Text","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"slide","id":"sl/2i9gu3","slide":1,"title":"IDBLOOM","textShapes":6}
+{"kind":"shape","id":"sh/fidc7ylw","slide":1,"name":"Freeform 3","bbox":[-180.22,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/o7mtk3md","slide":1,"name":"Freeform 4","bbox":[148.46,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/p8vud83y","slide":1,"name":"Freeform 5","bbox":[477.1,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/2l4bid4n","slide":1,"name":"Freeform 6","bbox":[805.78,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/36dcbil8","slide":1,"name":"Freeform 7","bbox":[1134.42,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/4b2t8jm9","slide":1,"name":"Freeform 8","bbox":[1463.09,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/5cba1o3u","slide":1,"name":"Freeform 9","bbox":[1791.73,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/9w7ulc7u","slide":1,"name":"Freeform 10","bbox":[-180.2,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/ovyts769","slide":1,"name":"Freeform 11","bbox":[148.48,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/nu5cj2po","slide":1,"name":"Freeform 12","bbox":[477.12,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/mtwbqxoj","slide":1,"name":"Freeform 13","bbox":[805.8,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/xk7upc76","slide":1,"name":"Freeform 14","bbox":[1134.44,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/wjytw76l","slide":1,"name":"Freeform 15","bbox":[1463.11,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/bipcn2p0","slide":1,"name":"Freeform 16","bbox":[1791.75,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/axgbuhof","slide":1,"name":"Freeform 17","bbox":[-180.19,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/lorutw72","slide":1,"name":"Freeform 18","bbox":[148.49,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/knit0r6h","slide":1,"name":"Freeform 19","bbox":[477.13,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/4rqdwvet","slide":1,"name":"Freeform 20","bbox":[805.81,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/5szep0fe","slide":1,"name":"Freeform 21","bbox":[1134.45,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/ipovulwn","slide":1,"name":"Freeform 22","bbox":[1463.12,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/3qxwnqx8","slide":1,"name":"Freeform 23","bbox":[1791.76,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/svqd0fep","slide":1,"name":"Freeform 24","bbox":[-180.17,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/dwzet0va","slide":1,"name":"Freeform 25","bbox":[148.51,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/qt8vy5wz","slide":1,"name":"Freeform 26","bbox":[477.15,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/ruhwrad4","slide":1,"name":"Freeform 27","bbox":[805.83,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/8z6dobel","slide":1,"name":"Freeform 28","bbox":[1134.47,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/90fehgf6","slide":1,"name":"Freeform 29","bbox":[1463.14,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/bq58ji10","slide":1,"name":"Freeform 30","bbox":[1791.78,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/a5w7adkf","slide":1,"bbox":[608,304,710,88]}
+{"kind":"textbox","id":"sh/xsnql8jq","slide":1,"text":"IDBLOOM","textPreview":"IDBLOOM","textChars":7,"textLines":1,"bbox":[590,290,740,110]}
+{"kind":"textbox","id":"sh/wrepcn2l","slide":1,"text":"Turning invisible home expertise into visible economic value","textPreview":"Turning invisible home expertise into visible economic value","textChars":60,"textLines":1,"bbox":[335,430,1250,56]}
+{"kind":"textbox","id":"sh/n2l8fylo","slide":1,"text":"From unpaid homemaker to Household Operations Specialist","textPreview":"From unpaid homemaker to Household Operations Specialist","textChars":56,"textLines":1,"bbox":[294,576,1332,74]}
+{"kind":"textbox","id":"sh/m1c76tk3","slide":1,"text":"Musea + Agency","textPreview":"Musea + Agency","textChars":14,"textLines":1,"bbox":[760,704,400,42]}
+{"kind":"textbox","id":"sh/94nqh83u","slide":1,"text":"Time: 0:00-0:35 | Slide 1/8","textPreview":"Time: 0:00-0:35 | Slide 1/8","textChars":27,"textLines":1,"bbox":[1420,1014,360,34]}
+{"kind":"textbox","id":"sh/o3ep8329","slide":1,"text":"IDBLOOM | BPA Topic 3 Labor Identity","textPreview":"IDBLOOM | BPA Topic 3 Labor Identity","textChars":36,"textLines":1,"bbox":[140,1014,520,34]}
+{"kind":"notes","id":"nt/2i9gu3","slide":1,"text":"Opening thesis: IDBLOOM helps homemakers translate daily work into recognized identity and market opportunities.\n[Sources] README.md; pasted prompt; source deck 212(1).pptx."}
+{"kind":"slide","id":"sl/dlw87l","slide":2,"title":"Invisible work has no market language","textShapes":12}
+{"kind":"shape","id":"sh/c7mpozq1","slide":2,"name":"Freeform 3","bbox":[-122.23,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/32torupk","slide":2,"name":"Freeform 4","bbox":[206.45,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/21k7ip8z","slide":2,"name":"Freeform 5","bbox":[535.09,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/p4b6tk7a","slide":2,"name":"Freeform 6","bbox":[863.76,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/432pkfqp","slide":2,"name":"Freeform 7","bbox":[1192.4,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/vytonap8","slide":2,"name":"Freeform 8","bbox":[1521.08,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/udkne58n","slide":2,"name":"Freeform 9","bbox":[1849.72,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/oby9kjel","slide":2,"name":"Freeform 10","bbox":[-122.21,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/9c7qtof6","slide":2,"name":"Freeform 11","bbox":[206.47,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/m9gri9wv","slide":2,"name":"Freeform 12","bbox":[535.11,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/nap8rex0","slide":2,"name":"Freeform 13","bbox":[863.78,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/0ny9gzep","slide":2,"name":"Freeform 14","bbox":[1192.42,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/1o7qp4fa","slide":2,"name":"Freeform 15","bbox":[1521.1,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/elwre9wj","slide":2,"name":"Freeform 16","bbox":[1849.74,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/zm58nex4","slide":2,"name":"Freeform 17","bbox":[-122.2,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/kji9s3et","slide":2,"name":"Freeform 18","bbox":[206.48,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/l4ra18fe","slide":2,"name":"Freeform 19","bbox":[535.12,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/t0nq587i","slide":2,"name":"Freeform 20","bbox":[863.79,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/sze9c36x","slide":2,"name":"Freeform 21","bbox":[1192.43,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/7y583ypc","slide":2,"name":"Freeform 22","bbox":[1521.11,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/6xwrato7","slide":2,"name":"Freeform 23","bbox":[1849.75,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/5wnq1o7m","slide":2,"name":"Freeform 24","bbox":[-122.18,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/kve98j61","slide":2,"name":"Freeform 25","bbox":[206.5,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/ju58zepg","slide":2,"name":"Freeform 26","bbox":[535.14,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/itw769ov","slide":2,"name":"Freeform 27","bbox":[863.81,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/x83qxo7a","slide":2,"name":"Freeform 28","bbox":[1192.45,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/w7up4j6p","slide":2,"name":"Freeform 29","bbox":[1521.13,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/mdsnep4n","slide":2,"name":"Freeform 30","bbox":[1849.77,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/ne1o7a58","slide":2,"bbox":[650,68,620,82]}
+{"kind":"textbox","id":"sh/8za5gfmt","slide":2,"text":"Invisible work has no market language","textPreview":"Invisible work has no market language","textChars":37,"textLines":1,"bbox":[550,82,820,70]}
+{"kind":"textbox","id":"sh/90j69kne","slide":2,"text":"A homemaker may work all day, but her resume still says:","textPreview":"A homemaker may work all day, but her resume still says:","textChars":56,"textLines":1,"bbox":[300,300,910,70]}
+{"kind":"textbox","id":"sh/y98na54r","slide":2,"text":"Unemployed","textPreview":"Unemployed","textChars":10,"textLines":1,"bbox":[1210,280,420,78]}
+{"kind":"textbox","id":"sh/za1o3a5c","slide":2,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[360,455,28,38]}
+{"kind":"textbox","id":"sh/0ba5cfmh","slide":2,"text":"skills are unnamed","textPreview":"skills are unnamed","textChars":18,"textLines":1,"bbox":[394,457,486,44]}
+{"kind":"textbox","id":"sh/lcj65kn2","slide":2,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[360,535,28,38]}
+{"kind":"textbox","id":"sh/q58n654f","slide":2,"text":"labor is unpaid and unseen","textPreview":"labor is unpaid and unseen","textChars":26,"textLines":1,"bbox":[394,537,586,44]}
+{"kind":"textbox","id":"sh/b6h4zq50","slide":2,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[360,615,28,38]}
+{"kind":"textbox","id":"sh/3y1kb6pw","slide":2,"text":"identity is hidden inside family roles","textPreview":"identity is hidden inside family roles","textChars":38,"textLines":1,"bbox":[394,617,666,44]}
+{"kind":"shape","id":"sh/ixsji18b","slide":2,"bbox":[1060,435,480,260]}
+{"kind":"textbox","id":"sh/50j2dg7m","slide":2,"text":"Not a lack of ability.\nA lack of translation.","textPreview":"Not a lack of ability. | A lack of translation.","textChars":45,"textLines":2,"bbox":[1098,500,410,120]}
+{"kind":"textbox","id":"sh/4za1kbqh","slide":2,"text":"Time: 0:35-1:15 | Slide 2/8","textPreview":"Time: 0:35-1:15 | Slide 2/8","textChars":27,"textLines":1,"bbox":[1420,1014,360,34]}
+{"kind":"textbox","id":"sh/vuhk7mpk","slide":2,"text":"IDBLOOM | BPA Topic 3 Labor Identity","textPreview":"IDBLOOM | BPA Topic 3 Labor Identity","textChars":36,"textLines":1,"bbox":[140,1014,520,34]}
+{"kind":"notes","id":"nt/dlw87l","slide":2,"text":"Use this slide to set the core tension. Many details from the old problem/context slides can be said verbally here.\n[Sources] README.md; IDBLOOM_方案深化.md; pasted prompt."}
+{"kind":"slide","id":"sl/h36uyn","slide":3,"title":"IDBLOOM: Identity + Delivery","textShapes":16}
+{"kind":"shape","id":"sh/xov69ov6","slide":3,"name":"Freeform 3","bbox":[-122.23,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/ip472tcr","slide":3,"name":"Freeform 4","bbox":[206.45,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/jqdobydc","slide":3,"name":"Freeform 5","bbox":[535.09,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/kr6p43ux","slide":3,"name":"Freeform 6","bbox":[863.76,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/5sf6d8vi","slide":3,"name":"Freeform 7","bbox":[1192.4,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/ytknq9cn","slide":3,"name":"Freeform 8","bbox":[1521.08,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/zutozud8","slide":3,"name":"Freeform 9","bbox":[1849.72,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/ju50ze1w","slide":3,"name":"Freeform 10","bbox":[-122.21,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/itwz69kr","slide":3,"name":"Freeform 11","bbox":[206.47,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/5wni1oj2","slide":3,"name":"Freeform 12","bbox":[535.11,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/kveh8j2h","slide":3,"name":"Freeform 13","bbox":[863.78,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/vql0ve10","slide":3,"name":"Freeform 14","bbox":[1192.42,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/a5cz29kf","slide":3,"name":"Freeform 15","bbox":[1521.1,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/xsnix4j6","slide":3,"name":"Freeform 16","bbox":[1849.74,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/wreh4z2l","slide":3,"name":"Freeform 17","bbox":[-122.2,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/n2l0rul4","slide":3,"name":"Freeform 18","bbox":[206.48,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/m1czypkj","slide":3,"name":"Freeform 19","bbox":[535.12,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/qxsjap4b","slide":3,"name":"Freeform 20","bbox":[863.79,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/by103u5w","slide":3,"name":"Freeform 21","bbox":[1192.43,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/cza1czmh","slide":3,"name":"Freeform 22","bbox":[1521.11,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/d03i54nm","slide":3,"name":"Freeform 23","bbox":[1849.75,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/y1cjep47","slide":3,"name":"Freeform 24","bbox":[-122.18,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/z2l07u5s","slide":3,"name":"Freeform 25","bbox":[206.5,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/03u1gzmd","slide":3,"name":"Freeform 26","bbox":[535.14,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/l43i94ny","slide":3,"name":"Freeform 27","bbox":[863.81,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/mpcji94j","slide":3,"name":"Freeform 28","bbox":[1192.45,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/nqlkbe54","slide":3,"name":"Freeform 29","bbox":[1521.13,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/xk7mh876","slide":3,"name":"Freeform 30","bbox":[1849.77,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/wjel836l","slide":3,"bbox":[650,68,620,82]}
+{"kind":"textbox","id":"sh/vi54fyp0","slide":3,"text":"IDBLOOM: Identity + Delivery","textPreview":"IDBLOOM: Identity + Delivery","textChars":28,"textLines":1,"bbox":[550,82,820,70]}
+{"kind":"textbox","id":"sh/axw36tof","slide":3,"text":"Inner Identity","textPreview":"Inner Identity","textChars":14,"textLines":1,"bbox":[160,250,470,94]}
+{"kind":"textbox","id":"sh/5o7mls72","slide":3,"text":"Identity Passport","textPreview":"Identity Passport","textChars":17,"textLines":1,"bbox":[725,250,470,94]}
+{"kind":"textbox","id":"sh/knylcn6h","slide":3,"text":"Demand Delivery","textPreview":"Demand Delivery","textChars":15,"textLines":1,"bbox":[1290,250,470,94]}
+{"kind":"shape","id":"sh/jmp4jipc","slide":3,"bbox":[650,286,70,22]}
+{"kind":"shape","id":"sh/ilg3ador","slide":3,"bbox":[1215,286,70,22]}
+{"kind":"textbox","id":"sh/tsrmps7e","slide":3,"text":"daily memo","textPreview":"daily memo","textChars":10,"textLines":1,"bbox":[180,535,245,70]}
+{"kind":"textbox","id":"sh/srilgn6t","slide":3,"text":"voice/photo/todo","textPreview":"voice/photo/todo","textChars":16,"textLines":1,"bbox":[180,620,245,44]}
+{"kind":"shape","id":"sh/4n2p8rq1","slide":3,"bbox":[442,559,55,22]}
+{"kind":"textbox","id":"sh/p8b6hwrm","slide":3,"text":"skill extraction","textPreview":"skill extraction","textChars":16,"textLines":1,"bbox":[510,535,245,70]}
+{"kind":"textbox","id":"sh/2lk76h8v","slide":3,"text":"name hidden competence","textPreview":"name hidden competence","textChars":22,"textLines":1,"bbox":[510,620,245,44]}
+{"kind":"shape","id":"sh/3mtofm9g","slide":3,"bbox":[772,559,55,22]}
+{"kind":"textbox","id":"sh/gj2p4rqp","slide":3,"text":"evidence portfolio","textPreview":"evidence portfolio","textChars":18,"textLines":1,"bbox":[840,535,245,70]}
+{"kind":"textbox","id":"sh/hkb6dcra","slide":3,"text":"cases + tags + availability","textPreview":"cases + tags + availability","textChars":27,"textLines":1,"bbox":[840,620,245,44]}
+{"kind":"shape","id":"sh/uh0n2h8z","slide":3,"bbox":[1102,559,55,22]}
+{"kind":"textbox","id":"sh/fi9obm9k","slide":3,"text":"market packaging","textPreview":"market packaging","textChars":16,"textLines":1,"bbox":[1170,535,245,70]}
+{"kind":"textbox","id":"sh/0fmpgbq9","slide":3,"text":"service/content/product","textPreview":"service/content/product","textChars":23,"textLines":1,"bbox":[1170,620,245,44]}
+{"kind":"shape","id":"sh/lgv6pgru","slide":3,"bbox":[1432,559,55,22]}
+{"kind":"textbox","id":"sh/vmh0vex8","slide":3,"text":"local matching","textPreview":"local matching","textChars":14,"textLines":1,"bbox":[1500,535,245,70]}
+{"kind":"textbox","id":"sh/ul8j29wn","slide":3,"text":"orders + feedback","textPreview":"orders + feedback","textChars":17,"textLines":1,"bbox":[1500,620,245,44]}
+{"kind":"textbox","id":"sh/hojix4fy","slide":3,"text":"Time: 1:15-2:05 | Slide 3/8","textPreview":"Time: 1:15-2:05 | Slide 3/8","textChars":27,"textLines":1,"bbox":[1420,1014,360,34]}
+{"kind":"textbox","id":"sh/wna14jet","slide":3,"text":"IDBLOOM | BPA Topic 3 Labor Identity","textPreview":"IDBLOOM | BPA Topic 3 Labor Identity","textChars":36,"textLines":1,"bbox":[140,1014,520,34]}
+{"kind":"notes","id":"nt/h36uyn","slide":3,"text":"Explain the product in one clean path: record daily life, extract skills, build identity evidence, then route to opportunities.\n[Sources] README.md; IDBLOOM_方案深化.md; pasted prompt."}
+{"kind":"slide","id":"sl/cpe6u7","slide":4,"title":"One kitchen reset becomes a market offer","textShapes":10}
+{"kind":"shape","id":"sh/4f6l0rqd","slide":4,"name":"Freeform 3","bbox":[-122.23,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/vadknm9w","slide":4,"name":"Freeform 4","bbox":[206.45,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/u94juh8b","slide":4,"name":"Freeform 5","bbox":[535.09,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/hcf2pcrm","slide":4,"name":"Freeform 6","bbox":[863.76,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/wb6lw7q1","slide":4,"name":"Freeform 7","bbox":[1192.4,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/n6dkj29k","slide":4,"name":"Freeform 8","bbox":[1521.08,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/m54jqx8z","slide":4,"name":"Freeform 9","bbox":[1849.72,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/sv21c7q1","slide":4,"name":"Freeform 10","bbox":[-122.21,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/dwbi5c7m","slide":4,"name":"Freeform 11","bbox":[206.47,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/qtkjax8b","slide":4,"name":"Freeform 12","bbox":[535.11,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/rut032pw","slide":4,"name":"Freeform 13","bbox":[863.78,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/4r218nq5","slide":4,"name":"Freeform 14","bbox":[1192.42,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/5sbi1s7q","slide":4,"name":"Freeform 15","bbox":[1521.1,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/ip0j6x8z","slide":4,"name":"Freeform 16","bbox":[1849.74,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/3qt0zipk","slide":4,"name":"Freeform 17","bbox":[-122.2,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/onm1krq9","slide":4,"name":"Freeform 18","bbox":[206.48,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/pov2dw7u","slide":4,"name":"Freeform 19","bbox":[535.12,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/x4bixwzy","slide":4,"name":"Freeform 20","bbox":[863.79,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/w3i14rid","slide":4,"name":"Freeform 21","bbox":[1192.43,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/bi90vmh8","slide":4,"name":"Freeform 22","bbox":[1521.11,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/ah0j2h0n","slide":4,"name":"Freeform 23","bbox":[1849.75,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/9gritcz2","slide":4,"name":"Freeform 24","bbox":[-122.18,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/ofi107ih","slide":4,"name":"Freeform 25","bbox":[206.5,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/ne90r2hw","slide":4,"name":"Freeform 26","bbox":[535.14,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/md0jyx0b","slide":4,"name":"Freeform 27","bbox":[863.81,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/1c7ipczq","slide":4,"name":"Freeform 28","bbox":[1192.45,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/0by1w7i5","slide":4,"name":"Freeform 29","bbox":[1521.13,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/qhwfqdg3","slide":4,"name":"Freeform 30","bbox":[1849.77,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/ri5gzyxo","slide":4,"bbox":[650,68,620,82]}
+{"kind":"textbox","id":"sh/cjexs3y9","slide":4,"text":"One kitchen reset becomes a market offer","textPreview":"One kitchen reset becomes a market offer","textChars":40,"textLines":1,"bbox":[550,82,820,70]}
+{"kind":"textbox","id":"sh/2dwfmtg7","slide":4,"text":"\"I used 6 storage boxes to reorganize my kitchen.\"","textPreview":"\"I used 6 storage boxes to reorganize my kitchen.\"","textChars":50,"textLines":1,"bbox":[900,230,840,72]}
+{"kind":"textbox","id":"sh/3e5gvyxs","slide":4,"text":"Space Planning","textPreview":"Space Planning","textChars":14,"textLines":1,"bbox":[930,370,330,70]}
+{"kind":"textbox","id":"sh/4fexo3yx","slide":4,"text":"Storage System Design","textPreview":"Storage System Design","textChars":21,"textLines":1,"bbox":[1320,370,330,70]}
+{"kind":"textbox","id":"sh/pgnyx8fi","slide":4,"text":"Child Independence Training","textPreview":"Child Independence Training","textChars":27,"textLines":1,"bbox":[930,478,330,70]}
+{"kind":"textbox","id":"sh/upcfi9gv","slide":4,"text":"Family Workflow Optimization","textPreview":"Family Workflow Optimization","textChars":28,"textLines":1,"bbox":[1320,478,330,70]}
+{"kind":"textbox","id":"sh/fqlgrexg","slide":4,"text":"2-hour Small Kitchen Reset","textPreview":"2-hour Small Kitchen Reset","textChars":26,"textLines":1,"bbox":[990,654,560,76]}
+{"kind":"textbox","id":"sh/725c3u1c","slide":4,"text":"Simulated local demand: HKD 450 weekend trial","textPreview":"Simulated local demand: HKD 450 weekend trial","textChars":45,"textLines":1,"bbox":[960,760,620,44]}
+{"kind":"textbox","id":"sh/61wvup0r","slide":4,"text":"Time: 2:05-3:05 | Slide 4/8","textPreview":"Time: 2:05-3:05 | Slide 4/8","textChars":27,"textLines":1,"bbox":[1420,1014,360,34]}
+{"kind":"textbox","id":"sh/t4nu54ji","slide":4,"text":"IDBLOOM | BPA Topic 3 Labor Identity","textPreview":"IDBLOOM | BPA Topic 3 Labor Identity","textChars":36,"textLines":1,"bbox":[140,1014,520,34]}
+{"kind":"image","id":"im/id8zup4v","slide":4,"name":"","geometry":"roundRect","alt":"IDBLOOM kitchen demo image","bbox":[110,238,700,492]}
+{"kind":"notes","id":"nt/cpe6u7","slide":4,"text":"This is the 30-second demo anchor: daily kitchen organization becomes skill tags and then a priced local service.\n[Sources] README.md; 第一组任务一_IDBLOOM网站Demo开发指令.md; assets/idbloom-kitchen.png."}
+{"kind":"slide","id":"sl/fi3f2c","slide":5,"title":"Demand Delivery routes skills to four markets","textShapes":16}
+{"kind":"shape","id":"sh/pkza903i","slide":5,"name":"Freeform 3","bbox":[-160.23,-41.29,308.43,308.43]}
+{"kind":"shape","id":"sh/ql8bi5k3","slide":5,"name":"Freeform 4","bbox":[168.45,-41.29,308.43,308.43]}
+{"kind":"shape","id":"sh/rmhsbql8","slide":5,"name":"Freeform 5","bbox":[497.09,-41.29,308.43,308.43]}
+{"kind":"shape","id":"sh/cnqtkv2t","slide":5,"name":"Freeform 6","bbox":[825.76,-41.29,308.43,308.43]}
+{"kind":"shape","id":"sh/d8zad03e","slide":5,"name":"Freeform 7","bbox":[1154.4,-41.29,308.43,308.43]}
+{"kind":"shape","id":"sh/e9sbm5kz","slide":5,"name":"Freeform 8","bbox":[1483.08,-41.29,308.43,308.43]}
+{"kind":"shape","id":"sh/za1sfalk","slide":5,"name":"Freeform 9","bbox":[1811.72,-41.29,308.43,308.43]}
+{"kind":"shape","id":"sh/n65s3yt4","slide":5,"name":"Freeform 10","bbox":[-160.21,285.14,308.43,308.43]}
+{"kind":"shape","id":"sh/25wrutcj","slide":5,"name":"Freeform 11","bbox":[168.47,285.14,308.43,308.43]}
+{"kind":"shape","id":"sh/p8na58ba","slide":5,"name":"Freeform 12","bbox":[497.11,285.14,308.43,308.43]}
+{"kind":"shape","id":"sh/o7e9w3up","slide":5,"name":"Freeform 13","bbox":[825.78,285.14,308.43,308.43]}
+{"kind":"shape","id":"sh/f2lszyt8","slide":5,"name":"Freeform 14","bbox":[1154.42,285.14,308.43,308.43]}
+{"kind":"shape","id":"sh/14na1oby","slide":5,"name":"Freeform 16","bbox":[1811.74,285.14,308.43,308.43]}
+{"kind":"shape","id":"sh/03e9s3ut","slide":5,"name":"Freeform 17","bbox":[-160.2,611.53,308.43,308.43]}
+{"kind":"shape","id":"sh/zypsbitc","slide":5,"name":"Freeform 18","bbox":[168.48,611.53,308.43,308.43]}
+{"kind":"shape","id":"sh/yxgb2dcr","slide":5,"name":"Freeform 19","bbox":[497.12,611.53,308.43,308.43]}
+{"kind":"shape","id":"sh/ut0vuhwz","slide":5,"name":"Freeform 20","bbox":[825.79,611.53,308.43,308.43]}
+{"kind":"shape","id":"sh/vutc3mdk","slide":5,"name":"Freeform 21","bbox":[1154.43,611.53,308.43,308.43]}
+{"kind":"shape","id":"sh/gv2dwre5","slide":5,"name":"Freeform 22","bbox":[1483.11,611.53,308.43,308.43]}
+{"kind":"shape","id":"sh/hwbu5wvq","slide":5,"name":"Freeform 23","bbox":[1811.75,611.53,308.43,308.43]}
+{"kind":"shape","id":"sh/ixkvy1cb","slide":5,"name":"Freeform 24","bbox":[-160.18,937.96,308.43,308.43]}
+{"kind":"shape","id":"sh/3ytc76dg","slide":5,"name":"Freeform 25","bbox":[168.5,937.96,308.43,308.43]}
+{"kind":"shape","id":"sh/4z2d0ru1","slide":5,"name":"Freeform 26","bbox":[497.14,937.96,308.43,308.43]}
+{"kind":"shape","id":"sh/5kbe9wvm","slide":5,"name":"Freeform 27","bbox":[825.81,937.96,308.43,308.43]}
+{"kind":"shape","id":"sh/y1gvmxwr","slide":5,"name":"Freeform 28","bbox":[1154.45,937.96,308.43,308.43]}
+{"kind":"shape","id":"sh/z2pcv2dc","slide":5,"name":"Freeform 29","bbox":[1483.13,937.96,308.43,308.43]}
+{"kind":"shape","id":"sh/1gfy10fu","slide":5,"name":"Freeform 30","bbox":[1811.77,937.96,308.43,308.43]}
+{"kind":"shape","id":"sh/0f6x8ve9","slide":5,"bbox":[650,68,620,82]}
+{"kind":"textbox","id":"sh/fexgzax4","slide":5,"text":"Demand Delivery routes skills to four markets","textPreview":"Demand Delivery routes skills to four markets","textChars":45,"textLines":1,"bbox":[550,82,820,70]}
+{"kind":"shape","id":"sh/etof65gj","slide":5,"bbox":[135,260,350,372]}
+{"kind":"textbox","id":"sh/pkfy5kf6","slide":5,"text":"Content","textPreview":"Content","textChars":7,"textLines":1,"bbox":[161,300,298,42]}
+{"kind":"textbox","id":"sh/oj6xcfel","slide":5,"text":"Xiaohongshu / TikTok","textPreview":"Xiaohongshu / TikTok","textChars":20,"textLines":1,"bbox":[169,390,282,62]}
+{"kind":"textbox","id":"sh/nixg3ax0","slide":5,"text":"scripts, posts, before-after stories","textPreview":"scripts, posts, before-after stories","textChars":36,"textLines":1,"bbox":[169,500,282,86]}
+{"kind":"shape","id":"sh/2hofa5wf","slide":5,"bbox":[575,260,350,372]}
+{"kind":"textbox","id":"sh/5ovytgfm","slide":5,"text":"Products","textPreview":"Products","textChars":8,"textLines":1,"bbox":[601,300,298,42]}
+{"kind":"textbox","id":"sh/4nmx0by1","slide":5,"text":"Taobao / Etsy / Shopify","textPreview":"Taobao / Etsy / Shopify","textChars":23,"textLines":1,"bbox":[609,390,282,62]}
+{"kind":"textbox","id":"sh/8ja18jyp","slide":5,"text":"templates, recipes, labels, kits","textPreview":"templates, recipes, labels, kits","textChars":32,"textLines":1,"bbox":[609,500,282,86]}
+{"kind":"shape","id":"sh/943i1oza","slide":5,"bbox":[1015,260,350,372]}
+{"kind":"textbox","id":"sh/mhsj6tgz","slide":5,"text":"Offline Service","textPreview":"Offline Service","textChars":15,"textLines":1,"bbox":[1041,300,298,42]}
+{"kind":"textbox","id":"sh/7i10zeh4","slide":5,"text":"local parents / community","textPreview":"local parents / community","textChars":25,"textLines":1,"bbox":[1049,390,282,62]}
+{"kind":"textbox","id":"sh/kfa14jyt","slide":5,"text":"kitchen reset, meal prep, care planning","textPreview":"kitchen reset, meal prep, care planning","textChars":39,"textLines":1,"bbox":[1049,500,282,86]}
+{"kind":"shape","id":"sh/lgjixoze","slide":5,"bbox":[1455,260,350,372]}
+{"kind":"textbox","id":"sh/ydsj290n","slide":5,"text":"Knowledge Service","textPreview":"Knowledge Service","textChars":17,"textLines":1,"bbox":[1481,300,298,42]}
+{"kind":"textbox","id":"sh/ze10veh8","slide":5,"text":"workshops / consults","textPreview":"workshops / consults","textChars":20,"textLines":1,"bbox":[1489,390,282,62]}
+{"kind":"textbox","id":"sh/cbqh0zih","slide":5,"text":"courses, family systems coaching","textPreview":"courses, family systems coaching","textChars":32,"textLines":1,"bbox":[1489,500,282,86]}
+{"kind":"textbox","id":"sh/xczit4z2","slide":5,"text":"Same identity passport, different income paths.","textPreview":"Same identity passport, different income paths.","textChars":47,"textLines":1,"bbox":[460,730,1000,52]}
+{"kind":"textbox","id":"sh/f6hk3u14","slide":5,"text":"Time: 3:05-4:10 | Slide 5/8","textPreview":"Time: 3:05-4:10 | Slide 5/8","textChars":27,"textLines":1,"bbox":[1420,1014,360,34]}
+{"kind":"textbox","id":"sh/el8japkj","slide":5,"text":"IDBLOOM | BPA Topic 3 Labor Identity","textPreview":"IDBLOOM | BPA Topic 3 Labor Identity","textChars":36,"textLines":1,"bbox":[140,1014,520,34]}
+{"kind":"notes","id":"nt/fi3f2c","slide":5,"text":"Merge the old online content, e-commerce, offline service, and knowledge service slides into one clean market routing slide.\n[Sources] README.md; IDBLOOM_方案深化.md; source deck slides 12-18."}
+{"kind":"slide","id":"sl/l9lgza","slide":6,"title":"Industries monetize uniqueness","textShapes":4}
+{"kind":"shape","id":"sh/lg7mts3q","slide":6,"name":"Freeform 3","bbox":[-180.22,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/q9w3ed43","slide":6,"name":"Freeform 4","bbox":[148.46,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/ba54nilo","slide":6,"name":"Freeform 5","bbox":[477.1,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/cbe5gnm9","slide":6,"name":"Freeform 6","bbox":[805.78,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/dcnmps3u","slide":6,"name":"Freeform 7","bbox":[1134.42,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/2lc3at47","slide":6,"name":"Freeform 8","bbox":[1463.09,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/3ml4jylc","slide":6,"name":"Freeform 9","bbox":[1791.73,-103.84,308.43,308.43]}
+{"kind":"shape","id":"sh/j6t8fmxo","slide":6,"name":"Freeform 10","bbox":[-180.2,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/i50r6hwj","slide":6,"name":"Freeform 11","bbox":[148.48,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/58bqhwfu","slide":6,"name":"Freeform 12","bbox":[477.12,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/47298re9","slide":6,"name":"Freeform 13","bbox":[805.8,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/rat8jmx0","slide":6,"name":"Freeform 14","bbox":[1134.44,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/69kra1wf","slide":6,"name":"Freeform 15","bbox":[1463.11,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/twbqlwf6","slide":6,"name":"Freeform 16","bbox":[1791.75,222.59,308.43,308.43]}
+{"kind":"shape","id":"sh/sv29crel","slide":6,"name":"Freeform 17","bbox":[-180.19,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/ne9872xw","slide":6,"name":"Freeform 18","bbox":[148.49,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/mdg7yxgb","slide":6,"name":"Freeform 19","bbox":[477.13,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/qtob65gj","slide":6,"name":"Freeform 20","bbox":[805.81,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/buxcfah4","slide":6,"name":"Freeform 21","bbox":[1134.45,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/cv6t8fyp","slide":6,"name":"Freeform 22","bbox":[1463.12,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/dwzuhkza","slide":6,"name":"Freeform 23","bbox":[1791.76,548.98,308.43,308.43]}
+{"kind":"shape","id":"sh/2pob25gn","slide":6,"name":"Freeform 24","bbox":[-180.17,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/3qxcbqh8","slide":6,"name":"Freeform 25","bbox":[148.51,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/or6t4vyt","slide":6,"name":"Freeform 26","bbox":[477.15,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/psfud0ze","slide":6,"name":"Freeform 27","bbox":[805.83,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/e14bylgr","slide":6,"name":"Freeform 28","bbox":[1134.47,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/f2ds7qhw","slide":6,"name":"Freeform 29","bbox":[1463.14,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/xg3edoje","slide":6,"name":"Freeform 30","bbox":[1791.78,875.41,308.43,308.43]}
+{"kind":"shape","id":"sh/wfax4ji9","slide":6,"bbox":[650,68,620,82]}
+{"kind":"textbox","id":"sh/ve1wbe1o","slide":6,"text":"Industries monetize uniqueness","textPreview":"Industries monetize uniqueness","textChars":30,"textLines":1,"bbox":[550,82,820,70]}
+{"kind":"textbox","id":"sh/9sje9oji","slide":6,"text":"The missing tool for homemakers is not labor matching. It is identity translation.","textPreview":"The missing tool for homemakers is not labor matching. It is identity translation.","textChars":82,"textLines":1,"bbox":[270,820,1380,48]}
+{"kind":"textbox","id":"sh/8rad0jix","slide":6,"text":"Time: 4:10-5:00 | Slide 6/8","textPreview":"Time: 4:10-5:00 | Slide 6/8","textChars":27,"textLines":1,"bbox":[1420,1014,360,34]}
+{"kind":"textbox","id":"sh/nq1w7e1c","slide":6,"text":"IDBLOOM | BPA Topic 3 Labor Identity","textPreview":"IDBLOOM | BPA Topic 3 Labor Identity","textChars":36,"textLines":1,"bbox":[140,1014,520,34]}
+{"kind":"table","id":"tb/dk7qlc3m","slide":6,"name":"","rows":4,"cols":4,"preview":"Labor Identity | Distinctiveness | Example | Digital tool -> value","bbox":[100,255,1720,510]}
+{"kind":"notes","id":"nt/l9lgza","slide":6,"text":"Use the comparison to answer the BPA theme directly: digital tools help personal uniqueness become economic value.\n[Sources] README.md; pasted prompt; IDBLOOM_方案深化.md."}
+{"kind":"slide","id":"sl/686laj","slide":7,"title":"The model works only if trust is designed in","textShapes":21}
+{"kind":"shape","id":"sh/1kna14nq","slide":7,"name":"Freeform 3","bbox":[-122.23,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/2lwbu94b","slide":7,"name":"Freeform 4","bbox":[206.45,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/3m5s3e5w","slide":7,"name":"Freeform 5","bbox":[535.09,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/onetwjmh","slide":7,"name":"Freeform 6","bbox":[863.76,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/pona54n2","slide":7,"name":"Freeform 7","bbox":[1192.4,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/q9gby947","slide":7,"name":"Freeform 8","bbox":[1521.08,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/bapc7e5s","slide":7,"name":"Freeform 9","bbox":[1849.72,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/jq5gryt4","slide":7,"name":"Freeform 10","bbox":[-122.21,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/ypwfytsj","slide":7,"name":"Freeform 11","bbox":[206.47,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/ls7yt8bu","slide":7,"name":"Freeform 12","bbox":[535.11,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/krex03ap","slide":7,"name":"Freeform 13","bbox":[863.78,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/bm5wnyts","slide":7,"name":"Freeform 14","bbox":[1192.42,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/alwfuts7","slide":7,"name":"Freeform 15","bbox":[1521.1,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/xonep8by","slide":7,"name":"Freeform 16","bbox":[1849.74,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/wnexw3ad","slide":7,"name":"Freeform 17","bbox":[-122.2,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/vipgzi9c","slide":7,"name":"Freeform 18","bbox":[206.48,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/uhgf6dsr","slide":7,"name":"Freeform 19","bbox":[535.12,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/qdkjyhcz","slide":7,"name":"Freeform 20","bbox":[863.79,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/ret0rmtk","slide":7,"name":"Freeform 21","bbox":[1192.43,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/cf210ru5","slide":7,"name":"Freeform 22","bbox":[1521.11,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/dgbitwba","slide":7,"name":"Freeform 23","bbox":[1849.75,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/ehkj21cv","slide":7,"name":"Freeform 24","bbox":[-122.18,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/zit0v6tg","slide":7,"name":"Freeform 25","bbox":[206.5,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/0jm14bu1","slide":7,"name":"Freeform 26","bbox":[535.14,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/14vixgbm","slide":7,"name":"Freeform 27","bbox":[863.81,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/ul0zqxcr","slide":7,"name":"Freeform 28","bbox":[1192.45,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/vm90j2dc","slide":7,"name":"Freeform 29","bbox":[1521.13,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/x0fmp0vu","slide":7,"name":"Freeform 30","bbox":[1849.77,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/wz6lwfe9","slide":7,"bbox":[650,68,620,82]}
+{"kind":"textbox","id":"sh/byxknado","slide":7,"text":"The model works only if trust is designed in","textPreview":"The model works only if trust is designed in","textChars":44,"textLines":1,"bbox":[550,82,820,70]}
+{"kind":"shape","id":"sh/ado3u5w3","slide":7,"bbox":[170,260,310,260]}
+{"kind":"textbox","id":"sh/l4zmtkvq","slide":7,"text":"User value","textPreview":"User value","textChars":10,"textLines":1,"bbox":[194,292,262,42]}
+{"kind":"textbox","id":"sh/k3ql0fe5","slide":7,"text":"identity\nincome\nconfidence","textPreview":"identity | income | confidence","textChars":26,"textLines":3,"bbox":[202,370,246,112]}
+{"kind":"shape","id":"sh/j2h4rad0","slide":7,"bbox":[560,260,310,260]}
+{"kind":"textbox","id":"sh/y1o3y5wf","slide":7,"text":"Platform revenue","textPreview":"Platform revenue","textChars":16,"textLines":1,"bbox":[584,292,262,42]}
+{"kind":"textbox","id":"sh/18v2hgfm","slide":7,"text":"10-15%\ncommission\npremium exports","textPreview":"10-15% | commission | premium exports","textChars":33,"textLines":3,"bbox":[592,370,246,112]}
+{"kind":"shape","id":"sh/07mlove1","slide":7,"bbox":[950,260,310,260]}
+{"kind":"textbox","id":"sh/4nupwjyp","slide":7,"text":"Validation KPI","textPreview":"Validation KPI","textChars":14,"textLines":1,"bbox":[974,292,262,42]}
+{"kind":"textbox","id":"sh/5o36pofa","slide":7,"text":"booking rate\nself-worth\nwillingness-to-pay","textPreview":"booking rate | self-worth | willingness-to-pay","textChars":42,"textLines":3,"bbox":[982,370,246,112]}
+{"kind":"shape","id":"sh/i1snutgj","slide":7,"bbox":[1340,260,310,260]}
+{"kind":"textbox","id":"sh/32lonyx4","slide":7,"text":"Safeguards","textPreview":"Safeguards","textChars":10,"textLines":1,"bbox":[1364,292,262,42]}
+{"kind":"textbox","id":"sh/gza5sjyd","slide":7,"text":"consent\nprivacy\nquality loop","textPreview":"consent | privacy | quality loop","textChars":28,"textLines":3,"bbox":[1372,370,246,112]}
+{"kind":"shape","id":"sh/h0j61ofy","slide":7,"bbox":[475,390,80,0]}
+{"kind":"shape","id":"sh/uxsnq9gn","slide":7,"bbox":[865,390,80,0]}
+{"kind":"shape","id":"sh/vy1ozex8","slide":7,"bbox":[1255,390,80,0]}
+{"kind":"textbox","id":"sh/8va5ozyh","slide":7,"text":"Privacy first","textPreview":"Privacy first","textChars":13,"textLines":1,"bbox":[270,650,300,42]}
+{"kind":"textbox","id":"sh/twj6x4f2","slide":7,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[280,710,28,38]}
+{"kind":"textbox","id":"sh/bqho7u1o","slide":7,"text":"authorized inputs only","textPreview":"authorized inputs only","textChars":22,"textLines":1,"bbox":[314,712,466,44]}
+{"kind":"textbox","id":"sh/a587y903","slide":7,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[280,765,28,38]}
+{"kind":"textbox","id":"sh/xsz694ju","slide":7,"text":"user confirms before publishing","textPreview":"user confirms before publishing","textChars":31,"textLines":1,"bbox":[314,767,536,44]}
+{"kind":"textbox","id":"sh/wrqp0zi9","slide":7,"text":"Quality standard","textPreview":"Quality standard","textChars":16,"textLines":1,"bbox":[1010,650,360,42]}
+{"kind":"textbox","id":"sh/ju18be10","slide":7,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[1020,710,28,38]}
+{"kind":"textbox","id":"sh/yt87290f","slide":7,"text":"before/after evidence","textPreview":"before/after evidence","textChars":21,"textLines":1,"bbox":[1054,712,466,44]}
+{"kind":"textbox","id":"sh/lwjqdoj6","slide":7,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[1020,765,28,38]}
+{"kind":"textbox","id":"sh/kvap4jil","slide":7,"text":"ratings + basic safety guidance","textPreview":"ratings + basic safety guidance","textChars":31,"textLines":1,"bbox":[1054,767,556,44]}
+{"kind":"textbox","id":"sh/7y18fe1w","slide":7,"text":"Time: 5:00-5:55 | Slide 7/8","textPreview":"Time: 5:00-5:55 | Slide 7/8","textChars":27,"textLines":1,"bbox":[1420,1014,360,34]}
+{"kind":"textbox","id":"sh/6xs76t0b","slide":7,"text":"IDBLOOM | BPA Topic 3 Labor Identity","textPreview":"IDBLOOM | BPA Topic 3 Labor Identity","textChars":36,"textLines":1,"bbox":[140,1014,520,34]}
+{"kind":"notes","id":"nt/686laj","slide":7,"text":"The prompt's validation metrics are framed here as KPIs to test, not as unsupported achieved results.\n[Sources] README.md; IDBLOOM_方案深化.md; pasted prompt."}
+{"kind":"slide","id":"sl/rit1j9","slide":8,"title":"Hidden labor -> recognized opportunity","textShapes":7}
+{"kind":"shape","id":"sh/903650bq","slide":8,"name":"Freeform 3","bbox":[-122.22,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/u1c7ylsb","slide":8,"name":"Freeform 4","bbox":[206.46,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/v2l87qtw","slide":8,"name":"Freeform 5","bbox":[535.1,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/w3up0va1","slide":8,"name":"Freeform 6","bbox":[863.78,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/h4nq90bm","slide":8,"name":"Freeform 7","bbox":[1192.42,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/q5s7m1sr","slide":8,"name":"Freeform 8","bbox":[1521.09,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/b61ov6tc","slide":8,"name":"Freeform 9","bbox":[1849.73,-41.28,308.43,308.43]}
+{"kind":"shape","id":"sh/va1szmhk","slide":8,"name":"Freeform 10","bbox":[-122.2,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/u9sr6h0z","slide":8,"name":"Freeform 11","bbox":[206.48,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/hcja1czq","slide":8,"name":"Freeform 12","bbox":[535.12,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/wba987i5","slide":8,"name":"Freeform 13","bbox":[863.8,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/7mh8v2ho","slide":8,"name":"Freeform 14","bbox":[1192.44,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/ml8r2x03","slide":8,"name":"Freeform 15","bbox":[1521.11,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/98jqxcze","slide":8,"name":"Freeform 16","bbox":[1849.75,285.15,308.43,308.43]}
+{"kind":"shape","id":"sh/8nq947it","slide":8,"name":"Freeform 17","bbox":[-122.19,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/zih8r2hc","slide":8,"name":"Freeform 18","bbox":[206.49,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/yh8ryx0r","slide":8,"name":"Freeform 19","bbox":[535.13,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/2doradkj","slide":8,"name":"Freeform 20","bbox":[863.81,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/nexs3il4","slide":8,"name":"Freeform 21","bbox":[1192.45,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/of69cn2p","slide":8,"name":"Freeform 22","bbox":[1521.12,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/pgfa5s3a","slide":8,"name":"Freeform 23","bbox":[1849.76,611.54,308.43,308.43]}
+{"kind":"shape","id":"sh/ah8bexkv","slide":8,"name":"Freeform 24","bbox":[-122.17,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/bihs72lg","slide":8,"name":"Freeform 25","bbox":[206.51,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/cjqtg721","slide":8,"name":"Freeform 26","bbox":[535.15,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/xkza9cj6","slide":8,"name":"Freeform 27","bbox":[863.83,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/yl8bihkr","slide":8,"name":"Freeform 28","bbox":[1192.47,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/z6hsb21c","slide":8,"name":"Freeform 29","bbox":[1521.14,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/90ju1gne","slide":8,"name":"Freeform 30","bbox":[1849.78,937.97,308.43,308.43]}
+{"kind":"shape","id":"sh/8fad8bm9","slide":8,"bbox":[650,68,620,82]}
+{"kind":"textbox","id":"sh/7e1cz65o","slide":8,"text":"Hidden labor -> recognized opportunity","textPreview":"Hidden labor -> recognized opportunity","textChars":38,"textLines":1,"bbox":[550,82,820,70]}
+{"kind":"textbox","id":"sh/h43e5g3q","slide":8,"text":"AI should not only replace labor.\nIt should reveal the value society has failed to see.","textPreview":"AI should not only replace labor. | It should reveal the value society has failed to see.","textChars":87,"textLines":2,"bbox":[180,300,720,190]}
+{"kind":"textbox","id":"sh/w3udcbm5","slide":8,"text":"IDBLOOM: idbloom.tobysneko.com","textPreview":"IDBLOOM: idbloom.tobysneko.com","textChars":30,"textLines":1,"bbox":[250,565,650,50]}
+{"kind":"shape","id":"sh/v2lc36lk","slide":8,"bbox":[190,700,1500,190]}
+{"kind":"textbox","id":"sh/u1cva14z","slide":8,"text":"AI Usage Acknowledgement","textPreview":"AI Usage Acknowledgement","textChars":24,"textLines":1,"bbox":[230,748,440,36]}
+{"kind":"textbox","id":"sh/58ne903m","slide":8,"text":"Our team used AI tools to support brainstorming, language polishing, slide structure refinement and prototype simulation. The core idea, target user, business judgment, storyline and final adaptation were developed and validated by our student team.","textPreview":"Our team used AI tools to support brainstorming, language polishing, slide structure refinement and prototype simulation. The core idea, ...","textChars":249,"textLines":1,"bbox":[230,790,1408,92]}
+{"kind":"textbox","id":"sh/47udgvm1","slide":8,"text":"Time: 5:55-6:30 | Slide 8/8","textPreview":"Time: 5:55-6:30 | Slide 8/8","textChars":27,"textLines":1,"bbox":[1420,1014,360,34]}
+{"kind":"textbox","id":"sh/03yx8z6p","slide":8,"text":"IDBLOOM | BPA Topic 3 Labor Identity","textPreview":"IDBLOOM | BPA Topic 3 Labor Identity","textChars":36,"textLines":1,"bbox":[140,1014,520,34]}
+{"kind":"image","id":"im/l43ipofy","slide":8,"name":"","geometry":"roundRect","alt":"Demand Delivery prototype output showing market-ready positioning","bbox":[980,250,730,380]}
+{"kind":"notes","id":"nt/rit1j9","slide":8,"text":"Close by returning to the opening tension: IDBLOOM does not invent value, it makes existing value visible.\n[Sources] README.md; source deck media image24.png; pasted prompt."}

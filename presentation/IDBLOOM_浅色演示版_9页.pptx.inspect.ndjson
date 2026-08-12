@@ -1,0 +1,30 @@
+{"kind":"deck","id":"pr/u1bohs","name":"Deck"}
+{"kind":"layout","layoutId":"ffeb7e43-09dc-4287-a5cb-9253cb9afdea","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"55b7a2ec-2fb1-4d83-adf0-e2ffb03efaf8","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/4hbl8t","slide":1,"title":"Slide 1","textShapes":0}
+{"kind":"image","id":"im/pgbylsre","slide":1,"name":"","alt":"IDBLOOM slide 1","bbox":[0,0,1920,1080]}
+{"kind":"notes","id":"nt/4hbl8t","slide":1,"text":"Opening thesis: IDBLOOM helps homemakers translate daily work into recognized identity and market opportunities.\n[Sources] README.md; original prompt; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/bmfer1","slide":2,"title":"Slide 2","textShapes":0}
+{"kind":"image","id":"im/4ra5kru5","slide":2,"name":"","alt":"IDBLOOM slide 2","bbox":[0,0,1920,1080]}
+{"kind":"notes","id":"nt/bmfer1","slide":2,"text":"Core problem: Homemakers are not lacking ability; their work lacks market translation.\n[Sources] README.md; original prompt; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/vgd3sk","slide":3,"title":"Slide 3","textShapes":0}
+{"kind":"image","id":"im/3m1onmhs","slide":3,"name":"","alt":"IDBLOOM slide 3","bbox":[0,0,1920,1080]}
+{"kind":"notes","id":"nt/vgd3sk","slide":3,"text":"Product flow: daily input -> skill extraction -> Identity Passport -> Demand Delivery.\n[Sources] README.md; original prompt; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/dern88","slide":4,"title":"Slide 4","textShapes":0}
+{"kind":"image","id":"im/2ts3mpsj","slide":4,"name":"","alt":"IDBLOOM slide 4","bbox":[0,0,1920,1080]}
+{"kind":"notes","id":"nt/dern88","slide":4,"text":"Demo story: kitchen reset example used to show skill extraction and local demand packaging.\n[Sources] README.md; presentation/assets/idbloom-kitchen.png; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/xwpsis","slide":5,"title":"Slide 5","textShapes":0}
+{"kind":"image","id":"im/b2107ah8","slide":5,"name":"","alt":"IDBLOOM slide 5","bbox":[0,0,1920,1080]}
+{"kind":"notes","id":"nt/xwpsis","slide":5,"text":"Market routing: one identity passport can support content, products, offline services, and knowledge services.\n[Sources] README.md; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/3qzjhq","slide":6,"title":"Slide 6","textShapes":0}
+{"kind":"image","id":"im/up4bq94b","slide":6,"name":"","alt":"IDBLOOM slide 6","bbox":[0,0,1920,1080]}
+{"kind":"notes","id":"nt/3qzjhq","slide":6,"text":"Comparison: other fields already monetize personal uniqueness; homemakers need identity translation.\n[Sources] README.md; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/xj9exu","slide":7,"title":"Slide 7","textShapes":0}
+{"kind":"image","id":"im/mtcvel43","slide":7,"name":"","alt":"IDBLOOM slide 7","bbox":[0,0,1920,1080]}
+{"kind":"notes","id":"nt/xj9exu","slide":7,"text":"Model and trust: user value, platform revenue, validation KPIs, and privacy safeguards.\n[Sources] README.md; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/1cb5vc","slide":8,"title":"Slide 8","textShapes":0}
+{"kind":"image","id":"im/dcf218fa","slide":8,"name":"","alt":"IDBLOOM slide 8","bbox":[0,0,1920,1080]}
+{"kind":"notes","id":"nt/1cb5vc","slide":8,"text":"Closing claim: AI should reveal hidden labor value, not only replace labor.\n[Sources] README.md; presentation/assets/idbloom-demand-output.png; IDBLOOM_frontend_slides.html."}
+{"kind":"slide","id":"sl/0p7r03","slide":9,"title":"Slide 9","textShapes":0}
+{"kind":"image","id":"im/by50vyt8","slide":9,"name":"","alt":"IDBLOOM slide 9","bbox":[0,0,1920,1080]}
+{"kind":"notes","id":"nt/0p7r03","slide":9,"text":"AI acknowledgement: transparency page based on competition requirement and team AI usage statement.\n[Sources] README.md; user-provided acknowledgement reference image; IDBLOOM_frontend_slides.html."}

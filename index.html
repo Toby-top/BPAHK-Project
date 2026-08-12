@@ -7,17 +7,23 @@
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="style.css" />
   </head>
-  <body>
+  <body data-lang="en">
     <main class="app-shell">
+      <button class="language-toggle" type="button" id="language-toggle" aria-label="Switch to Chinese">
+        中文
+      </button>
+
       <section class="page story-panel" id="memo-page" aria-label="IDBLOOM input">
         <header class="brand">
-          <div class="brand-mark" aria-hidden="true">ID</div>
-          <div>
-            <h1>IDBLOOM</h1>
-            <p>
-              Inner Identity + Demand Delivery
-              <span class="zh" lang="zh-Hans">内在身份 + 需求递送</span>
-            </p>
+          <div class="brand-main">
+            <div class="brand-mark" aria-hidden="true">ID</div>
+            <div>
+              <h1>IDBLOOM</h1>
+              <p>
+                Inner Identity + Demand Delivery
+                <span class="zh" lang="zh-Hans">内在身份 + 需求递送</span>
+              </p>
+            </div>
           </div>
         </header>
 
@@ -37,19 +43,13 @@
             Mrs. Chan's daily memo
             <span class="zh" lang="zh-Hans">陈太太的一日生活记录</span>
           </label>
-          <textarea id="daily-story" rows="13">Daily memo - Mrs. Chan / 陈太太一日生活记录
+          <textarea id="daily-story" rows="9">Daily memo - Mrs. Chan
 - 7:10 AM: Prepared breakfast and packed school snacks for two children.
-  早上 7:10：准备早餐，并为两个孩子打包上学小食。
 - 8:30 AM: Checked the fridge, made a shopping list, and compared prices.
-  早上 8:30：检查冰箱、列购物清单，并比较价格。
 - 10:15 AM: Bought groceries, storage boxes, and breakfast supplies.
-  上午 10:15：购买食材、收纳盒和早餐用品。
 - 1:00 PM: Reorganized the kitchen into breakfast, baking, and seasoning zones.
-  下午 1:00：把厨房整理成早餐、烘焙和调味分区。
 - 4:30 PM: Helped the children find snacks by themselves after school.
-  下午 4:30：帮助孩子放学后自行找到小食。
-- 8:45 PM: Reviewed tomorrow's meal plan and family schedule.
-  晚上 8:45：检查明天的餐食计划和家庭日程。</textarea>
+- 8:45 PM: Reviewed tomorrow's meal plan and family schedule.</textarea>
 
           <div class="actions">
             <button class="ghost-button" type="button" id="example-button">
@@ -76,7 +76,7 @@
               <span class="zh" lang="zh-Hans">一日生活记录，转化为可用于求职的能力证据。</span>
             </h2>
           </div>
-          <div class="status-pill" id="status-pill">Ready / 准备就绪</div>
+          <div class="status-pill" id="status-pill">Ready</div>
         </div>
 
         <div class="loading-state" id="loading-state" hidden>
@@ -195,7 +195,10 @@
               <span class="zh" lang="zh-Hans">生成可见经济价值的求职申请输出。</span>
             </h2>
           </div>
-          <div class="status-pill">Market Ready / 市场就绪</div>
+          <div class="status-pill">
+            Market Ready
+            <span class="zh" lang="zh-Hans">市场就绪</span>
+          </div>
         </div>
 
         <div class="results-grid demand-grid" id="delivery-results">

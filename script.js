@@ -1,32 +1,51 @@
-const example =
-  `Daily memo - Mrs. Chan / 陈太太一日生活记录
+const examples = {
+  en: `Daily memo - Mrs. Chan
 - 7:10 AM: Prepared breakfast and packed school snacks for two children.
-  早上 7:10：准备早餐，并为两个孩子打包上学小食。
 - 8:30 AM: Checked the fridge, made a shopping list, and compared prices.
-  早上 8:30：检查冰箱、列购物清单，并比较价格。
 - 10:15 AM: Bought groceries, storage boxes, and breakfast supplies.
-  上午 10:15：购买食材、收纳盒和早餐用品。
 - 1:00 PM: Reorganized the kitchen into breakfast, baking, and seasoning zones.
-  下午 1:00：把厨房整理成早餐、烘焙和调味分区。
 - 4:30 PM: Helped the children find snacks by themselves after school.
-  下午 4:30：帮助孩子放学后自行找到小食。
-- 8:45 PM: Reviewed tomorrow's meal plan and family schedule.
-  晚上 8:45：检查明天的餐食计划和家庭日程。`;
+- 8:45 PM: Reviewed tomorrow's meal plan and family schedule.`,
+  zh: `陈太太一日生活记录
+- 早上 7:10：准备早餐，并为两个孩子打包上学小食。
+- 早上 8:30：检查冰箱、列购物清单，并比较价格。
+- 上午 10:15：购买食材、收纳盒和早餐用品。
+- 下午 1:00：把厨房整理成早餐、烘焙和调味分区。
+- 下午 4:30：帮助孩子放学后自行找到小食。
+- 晚上 8:45：检查明天的餐食计划和家庭日程。`,
+};
 
-const skills = [
-  "Meal Planning / 餐食规划",
-  "Budget Awareness / 预算意识",
-  "Procurement / 采购管理",
-  "Space Optimization / 空间优化",
-  "Child Independence Coaching / 儿童独立训练",
-  "Schedule Coordination / 日程协调",
-];
+const statusCopy = {
+  en: {
+    ready: "Ready",
+    analyzing: "Analyzing",
+    bloomed: "Identity Bloomed",
+  },
+  zh: {
+    ready: "准备就绪",
+    analyzing: "分析中",
+    bloomed: "身份已生成",
+  },
+};
+
+const skills = {
+  en: [
+    "Meal Planning",
+    "Budget Awareness",
+    "Procurement",
+    "Space Optimization",
+    "Child Independence Coaching",
+    "Schedule Coordination",
+  ],
+  zh: ["餐食规划", "预算意识", "采购管理", "空间优化", "儿童独立训练", "日程协调"],
+};
 
 const storyInput = document.querySelector("#daily-story");
 const exampleButton = document.querySelector("#example-button");
 const bloomButton = document.querySelector("#bloom-button");
 const demandButton = document.querySelector("#demand-button");
 const homeButton = document.querySelector("#home-button");
+const languageToggle = document.querySelector("#language-toggle");
 const memoPage = document.querySelector("#memo-page");
 const identityPage = document.querySelector("#identity-page");
 const deliveryPage = document.querySelector("#delivery-page");
@@ -41,6 +60,37 @@ const orderAlert = document.querySelector("#order-alert");
 const closingLine = document.querySelector("#closing-line");
 
 let timers = [];
+let currentLang = "en";
+
+function prepareLanguageSwitching() {
+  document.querySelectorAll(".zh").forEach((zhNode) => {
+    if (zhNode.previousElementSibling?.classList.contains("en")) return;
+
+    const parent = zhNode.parentElement;
+    const enNode = document.createElement("span");
+    enNode.className = "en";
+    const englishNodes = [];
+    let node = zhNode.previousSibling;
+
+    while (node) {
+      const previous = node.previousSibling;
+      englishNodes.unshift(node);
+      node = previous;
+    }
+
+    englishNodes.forEach((item) => {
+      if (item.nodeType === Node.TEXT_NODE && !item.textContent.trim()) {
+        item.remove();
+      } else {
+        enNode.append(item);
+      }
+    });
+
+    if (!enNode.textContent.trim()) return;
+
+    parent.insertBefore(enNode, zhNode);
+  });
+}
 
 function clearTimers() {
   timers.forEach((timer) => clearTimeout(timer));
@@ -52,7 +102,7 @@ function resetResults() {
   loadingState.hidden = true;
   identityResults.hidden = true;
   identityActions.hidden = true;
-  statusPill.textContent = "Ready / 准备就绪";
+  statusPill.textContent = statusCopy[currentLang].ready;
   skillTags.replaceChildren();
   [...identityCards, ...deliveryCards, orderAlert, closingLine].forEach((node) =>
     node.classList.remove("show"),
@@ -67,12 +117,12 @@ function showPage(page) {
 }
 
 function bloomIdentity() {
-  if (!storyInput.value.trim()) storyInput.value = example;
+  if (!storyInput.value.trim()) storyInput.value = examples[currentLang];
 
   resetResults();
   showPage(identityPage);
   bloomButton.disabled = true;
-  statusPill.textContent = "Analyzing / 分析中";
+  statusPill.textContent = statusCopy[currentLang].analyzing;
   loadingState.hidden = false;
 
   timers.push(
@@ -80,9 +130,9 @@ function bloomIdentity() {
       loadingState.hidden = true;
       identityResults.hidden = false;
       identityActions.hidden = false;
-      statusPill.textContent = "Identity Bloomed / 身份已生成";
+      statusPill.textContent = statusCopy[currentLang].bloomed;
 
-      skills.forEach((skill, index) => {
+      skills[currentLang].forEach((skill, index) => {
         const tag = document.createElement("span");
         tag.textContent = skill;
         tag.style.animationDelay = `${index * 110}ms`;
@@ -108,14 +158,45 @@ function showDemandDelivery() {
   timers.push(setTimeout(() => closingLine.classList.add("show"), 820));
 }
 
+function setLanguage(lang) {
+  const shouldSwapExample = !storyInput.value.trim() || storyInput.value === examples[currentLang];
+  currentLang = lang;
+  document.body.dataset.lang = lang;
+  document.documentElement.lang = lang === "zh" ? "zh-Hans" : "en";
+  languageToggle.textContent = lang === "zh" ? "English" : "中文";
+  languageToggle.setAttribute("aria-label", lang === "zh" ? "Switch to English" : "Switch to Chinese");
+  if (shouldSwapExample) storyInput.value = examples[lang];
+  statusPill.textContent = statusCopy[lang][getStatusKey()];
+
+  if (!identityResults.hidden) {
+    skillTags.replaceChildren();
+    skills[lang].forEach((skill, index) => {
+      const tag = document.createElement("span");
+      tag.textContent = skill;
+      tag.style.animationDelay = `${index * 80}ms`;
+      skillTags.append(tag);
+    });
+  }
+}
+
+function getStatusKey() {
+  if (!loadingState.hidden) return "analyzing";
+  if (!identityResults.hidden) return "bloomed";
+  return "ready";
+}
+
 exampleButton.addEventListener("click", () => {
-  storyInput.value = example;
+  storyInput.value = examples[currentLang];
   storyInput.focus();
 });
 
 bloomButton.addEventListener("click", bloomIdentity);
 demandButton.addEventListener("click", showDemandDelivery);
+languageToggle.addEventListener("click", () => setLanguage(currentLang === "en" ? "zh" : "en"));
 homeButton.addEventListener("click", () => {
   resetResults();
   showPage(memoPage);
 });
+
+prepareLanguageSwitching();
+setLanguage(currentLang);

@@ -68,6 +68,12 @@ textarea {
   gap: 0.85rem;
 }
 
+.brand-main {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+}
+
 .brand-mark {
   display: grid;
   place-items: center;
@@ -100,12 +106,20 @@ label {
   color: var(--muted);
 }
 
+.en,
 .zh {
   display: block;
-  margin-top: 0.18rem;
   color: inherit;
-  font-size: 0.92em;
   line-height: 1.35;
+}
+
+body[data-lang="en"] .zh,
+body[data-lang="zh"] .en {
+  display: none;
+}
+
+body[data-lang="zh"] .zh {
+  font-size: 1em;
 }
 
 .scene {
@@ -197,6 +211,17 @@ button:hover {
   padding: 0 1rem;
   color: var(--teal);
   background: #e7f5f3;
+}
+
+.language-toggle {
+  display: block;
+  min-height: 2.4rem;
+  margin: 0 0 0.75rem auto;
+  padding: 0 0.95rem;
+  border: 1px solid var(--line);
+  color: #0b735d;
+  background: #fff;
+  box-shadow: 0 8px 20px rgba(29, 80, 67, 0.09);
 }
 
 .primary-button {

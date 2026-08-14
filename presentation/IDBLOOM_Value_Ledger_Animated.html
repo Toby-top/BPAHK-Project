@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>IDBLOOM Value Ledger Animated</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #061015;
+        --ink: #f5fbf8;
+        --muted: rgba(245, 251, 248, 0.68);
+        --line: rgba(255, 255, 255, 0.18);
+        --mint: #72e3bd;
+        --cyan: #5ed8ff;
+        --gold: #ffd166;
+        --team: "U17-Global Solution Hub";
+        --font-display: "Bricolage Grotesque", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+        background:
+          radial-gradient(circle at 18% 12%, rgba(114, 227, 189, 0.22), transparent 30rem),
+          radial-gradient(circle at 88% 70%, rgba(94, 216, 255, 0.16), transparent 28rem),
+          var(--bg);
+        color: var(--ink);
+        font-family: var(--font-display);
+      }
+
+      .deck {
+        position: fixed;
+        inset: 0;
+        display: grid;
+        place-items: center;
+        padding: 4.6rem 5.2rem 5rem;
+      }
+
+      .deck::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        background-image:
+          linear-gradient(rgba(255, 255, 255, 0.045) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(255, 255, 255, 0.045) 1px, transparent 1px);
+        background-size: 74px 74px;
+        mask-image: linear-gradient(90deg, rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.18));
+      }
+
+      .brand-bar,
+      .controls,
+      .page-count {
+        position: fixed;
+        z-index: 20;
+      }
+
+      .brand-bar {
+        top: 1rem;
+        left: 1.2rem;
+        right: 1.2rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+        color: var(--muted);
+        font-size: 0.82rem;
+        font-weight: 760;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+
+      .brand-bar strong {
+        color: var(--ink);
+        font-size: 0.95rem;
+      }
+
+      .stage {
+        position: relative;
+        width: min(100%, calc((100vh - 9.6rem) * 16 / 9));
+        aspect-ratio: 16 / 9;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        overflow: hidden;
+        background: #0b1318;
+        box-shadow: 0 26px 80px rgba(0, 0, 0, 0.48);
+      }
+
+      .slide {
+        position: absolute;
+        inset: 0;
+        display: grid;
+        place-items: center;
+        opacity: 0;
+        visibility: hidden;
+        transform: scale(0.985) translateY(18px);
+        transition:
+          opacity 520ms cubic-bezier(0.16, 1, 0.3, 1),
+          transform 700ms cubic-bezier(0.16, 1, 0.3, 1),
+          visibility 520ms;
+      }
+
+      .slide.active {
+        opacity: 1;
+        visibility: visible;
+        transform: scale(1) translateY(0);
+        z-index: 2;
+      }
+
+      .slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        background: #fff;
+      }
+
+      .slide.active img {
+        animation: slide-in 760ms cubic-bezier(0.16, 1, 0.3, 1) both;
+      }
+
+      .watermark {
+        position: absolute;
+        inset: 0;
+        z-index: 5;
+        pointer-events: none;
+      }
+
+      .watermark::before {
+        content: var(--team);
+        position: absolute;
+        right: 1rem;
+        top: 0.78rem;
+        color: rgba(6, 16, 21, 0.28);
+        font-size: clamp(0.56rem, 0.82vw, 0.76rem);
+        font-weight: 760;
+        letter-spacing: 0;
+        opacity: 0.72;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .controls {
+        left: 50%;
+        bottom: 1.15rem;
+        display: flex;
+        align-items: center;
+        gap: 0.55rem;
+        transform: translateX(-50%);
+      }
+
+      button {
+        display: grid;
+        place-items: center;
+        width: 2.8rem;
+        aspect-ratio: 1;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        color: var(--ink);
+        background: rgba(255, 255, 255, 0.1);
+        cursor: pointer;
+        font: inherit;
+        font-size: 1.35rem;
+        font-weight: 900;
+        transition:
+          transform 160ms ease,
+          background 160ms ease,
+          border-color 160ms ease;
+      }
+
+      button:hover {
+        transform: translateY(-1px);
+        border-color: rgba(114, 227, 189, 0.68);
+        background: rgba(114, 227, 189, 0.16);
+      }
+
+      .page-count {
+        right: 1.2rem;
+        bottom: 1.55rem;
+        color: var(--muted);
+        font-size: 0.86rem;
+        font-weight: 800;
+      }
+
+      .progress {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 18;
+        height: 4px;
+        background: rgba(255, 255, 255, 0.12);
+      }
+
+      .progress span {
+        display: block;
+        width: calc((var(--index) + 1) / var(--total) * 100%);
+        height: 100%;
+        background: linear-gradient(90deg, var(--mint), var(--cyan), var(--gold));
+        transition: width 360ms ease;
+      }
+
+      @keyframes slide-in {
+        from {
+          filter: saturate(0.86) contrast(0.96);
+          transform: scale(1.012);
+        }
+        to {
+          filter: saturate(1) contrast(1);
+          transform: scale(1);
+        }
+      }
+
+      @media (max-width: 780px) {
+        .deck {
+          padding: 4rem 0.8rem 4.8rem;
+        }
+
+        .stage {
+          width: min(100%, calc((100vh - 8.8rem) * 16 / 9));
+        }
+
+        .brand-bar {
+          align-items: start;
+          flex-direction: column;
+          gap: 0.25rem;
+        }
+
+        .watermark::before {
+          right: 0.48rem;
+          top: 0.44rem;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        *,
+        *::before,
+        *::after {
+          animation-duration: 1ms !important;
+          transition-duration: 1ms !important;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="brand-bar">
+      <strong>IDBLOOM Value Ledger</strong>
+      <span>U17-Global Solution Hub</span>
+    </header>
+
+    <main class="deck" aria-label="IDBLOOM Value Ledger animated deck">
+      <section class="stage" id="stage" aria-live="polite">
+        <article class="slide active"><img src="assets/value-ledger/page-1.png" alt="IDBLOOM Value Ledger page 1" /></article>
+        <article class="slide"><img src="assets/value-ledger/page-2.png" alt="IDBLOOM Value Ledger page 2" loading="lazy" /></article>
+        <article class="slide"><img src="assets/value-ledger/page-3.png" alt="IDBLOOM Value Ledger page 3" loading="lazy" /></article>
+        <article class="slide"><img src="assets/value-ledger/page-4.png" alt="IDBLOOM Value Ledger page 4" loading="lazy" /></article>
+        <article class="slide"><img src="assets/value-ledger/page-5.png" alt="IDBLOOM Value Ledger page 5" loading="lazy" /></article>
+        <article class="slide"><img src="assets/value-ledger/page-6.png" alt="IDBLOOM Value Ledger page 6" loading="lazy" /></article>
+        <article class="slide"><img src="assets/value-ledger/page-7.png" alt="IDBLOOM Value Ledger page 7" loading="lazy" /></article>
+        <article class="slide"><img src="assets/value-ledger/page-8.png" alt="IDBLOOM Value Ledger page 8" loading="lazy" /></article>
+        <article class="slide"><img src="assets/value-ledger/page-9.png" alt="IDBLOOM Value Ledger page 9" loading="lazy" /></article>
+        <div class="watermark" aria-hidden="true"></div>
+      </section>
+    </main>
+
+    <nav class="controls" aria-label="Slide controls">
+      <button type="button" id="prev" aria-label="Previous slide">‹</button>
+      <button type="button" id="next" aria-label="Next slide">›</button>
+    </nav>
+    <div class="page-count" id="pageCount">1 / 9</div>
+    <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+
+    <script>
+      const slides = [...document.querySelectorAll(".slide")];
+      const pageCount = document.querySelector("#pageCount");
+      const progressBar = document.querySelector("#progressBar");
+      let index = 0;
+
+      function show(nextIndex) {
+        index = (nextIndex + slides.length) % slides.length;
+        slides.forEach((slide, slideIndex) => {
+          slide.classList.toggle("active", slideIndex === index);
+        });
+        pageCount.textContent = `${index + 1} / ${slides.length}`;
+        progressBar.style.setProperty("--index", index);
+        progressBar.style.setProperty("--total", slides.length);
+      }
+
+      document.querySelector("#prev").addEventListener("click", () => show(index - 1));
+      document.querySelector("#next").addEventListener("click", () => show(index + 1));
+
+      window.addEventListener("keydown", (event) => {
+        if (event.key === "ArrowLeft" || event.key === "PageUp") show(index - 1);
+        if (event.key === "ArrowRight" || event.key === " " || event.key === "PageDown") show(index + 1);
+        if (event.key === "Home") show(0);
+        if (event.key === "End") show(slides.length - 1);
+      });
+
+      show(0);
+    </script>
+  </body>
+</html>
